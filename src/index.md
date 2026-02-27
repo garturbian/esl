@@ -10,4 +10,6 @@ It's currently under development. Here's what I'm working on:
 - Creating layouts
 - Deploying to GitHub Pages
 
+(Site updated: {% year %})
+
 Happy coding!
