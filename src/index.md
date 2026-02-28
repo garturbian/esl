@@ -12,4 +12,4 @@ It's currently under development. Here's what I'm working on:
 
 (Site updated: {% year %})
 
-Happy coding!
+Happy coding!.
