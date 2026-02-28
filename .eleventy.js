@@ -2,6 +2,9 @@ module.exports = function(eleventyConfig) {
     // Add a custom shortcode for the current year
     eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
+    // Pass through .nojekyll
+    eleventyConfig.addPassthroughCopy("src/.nojekyll");
+
     // Configuration
     return {
         dir: {
