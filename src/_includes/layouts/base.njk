@@ -3,32 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ title or "Eleventy Site" }}</title>
-    <style>
-        body {
-            font-family: system-ui, -apple-system, sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 2rem;
-            line-height: 1.6;
-        }
-    </style>
+    <title>{{ title or "ESL Adventures" }} | Learn English</title>
+    <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&display=swap" rel="stylesheet">
 </head>
 <body>
-    <header>
-        <h1>{{ title }}</h1>
-        <nav>
-            <ul>
-                <li><a href="{{ '/' | url }}">Home</a></li>
-                <li><a href="{{ '/lessons/' | url }}">Lessons</a></li>
-            </ul>
-        </nav>
-    </header>
-    <main>
-        {{ content | safe }}
-    </main>
-    <footer>
-        <p>&copy; {% year %} My Eleventy Site</p>
-    </footer>
+    <div class="container">
+        <header>
+            <a href="{{ '/' | url }}" style="text-decoration: none;"><h1 class="text-gradient">ESL Learning</h1></a>
+            <nav>
+                <ul>
+                    <li><a href="{{ '/' | url }}"><span class="nav-icon">🏠</span><span>Home</span></a></li>
+                    <li><a href="{{ '/lessons/' | url }}"><span class="nav-icon">📚</span><span>Lessons</span></a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            {% if title %}
+                <h2 class="text-gradient">{{ title }}</h2>
+            {% endif %}
+            
+            <div class="content">
+                {{ content | safe }}
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; {% year %} &bull; Built with Eleventy for ESL Students</p>
+        </footer>
+    </div>
 </body>
 </html>

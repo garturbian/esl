@@ -3,12 +3,14 @@ layout: layouts/base.njk
 title: English Lessons
 ---
 
-Here are some English as a Second Language (ESL) lessons to get you started:
+Choose a lesson to begin your English learning journey!
 
-<ul>
+<div class="lessons-grid">
 {%- for lesson in collections.lessons -%}
-  <li><a href="{{ lesson.url | url }}">{{ lesson.data.title }}</a></li>
+    <a href="{{ lesson.url | url }}" class="lesson-card">
+        <h3>{{ lesson.data.title }}</h3>
+    </a>
 {%- endfor -%}
-</ul>
+</div>
 
-We'll be adding more lessons soon!
+We're adding new lessons every week!

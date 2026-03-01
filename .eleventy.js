@@ -1,9 +1,10 @@
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
     // Add a custom shortcode for the current year
     eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
-    // Pass through .nojekyll
+    // Pass through .nojekyll and CSS
     eleventyConfig.addPassthroughCopy("src/.nojekyll");
+    eleventyConfig.addPassthroughCopy("src/css");
 
     // Configuration
     return {
@@ -15,6 +16,6 @@ module.exports = function(eleventyConfig) {
         templateFormats: ["md", "njk", "html"],
         markdownTemplateEngine: "njk",
         htmlTemplateEngine: "njk",
-		pathPrefix: "/esl/"
+        pathPrefix: "/esl/"
     };
 };
