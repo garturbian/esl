@@ -30,6 +30,8 @@ body {
     font-family: 'Inter', system-ui, -apple-system, sans-serif;
     background-color: var(--bg);
     color: var(--text);
+    font-size: 1.5rem;
+    /* Increased by 50% from default 1rem */
     line-height: 1.6;
     -webkit-font-smoothing: antialiased;
 }
@@ -106,8 +108,16 @@ nav ul {
         /* Space for the bottom nav */
     }
 
-    header h1 {
+    header .site-title {
         font-size: 1.25rem;
+    }
+
+    .page-home header {
+        justify-content: center;
+    }
+
+    .page-home .site-title {
+        text-align: center;
     }
 }
 
@@ -131,6 +141,14 @@ h2,
 h3 {
     margin-bottom: 1.5rem;
     line-height: 1.2;
+}
+
+h1 {
+    font-size: 2.25rem;
+}
+
+main>h1.text-gradient {
+    text-align: center;
 }
 
 p {
@@ -170,9 +188,44 @@ footer {
 }
 
 /* Utilities */
+.site-title {
+    font-size: 2.25rem;
+    font-weight: 800;
+    line-height: 1.2;
+}
+
+.page-home .site-title {
+    text-align: center;
+}
+
 .text-gradient {
     background: linear-gradient(to right, var(--primary), #ec4899);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+
+/* Audio Player */
+.audio-container {
+    margin: 2rem 0;
+    padding: 1rem;
+    background-color: var(--surface);
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+}
+
+audio {
+    width: 100%;
+    max-width: 500px;
+}
+
+/* Images */
+main img {
+    display: block;
+    margin: 2rem auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
 }
