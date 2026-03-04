@@ -6,6 +6,8 @@ tags: lessons
 
 {% audioPlayer "/audio/lazy-tom.mp3" %}
 
+### [Googel Doc](https://docs.google.com/document/d/1GLAEpuw362L24T5VoE253OZ0krZjj6cSg1jLTU1PuPc)
+
 Tom was hungry, but he was lazy too. He didn't want to cook. He didn't want to go to a restaurant. He didn't even want to heat leftovers. He decided to get pizza delivered. He went online to order a small pizza. He waited for the pizza.
 
 Later , he heard the doorbell. At first, he was too lazy to get up. After five minutes, he opened the door. The pizza smelled good. He paid the delivery man. He gave him a tip. Tom sat back on the couch and ate the pizza. He was full.
