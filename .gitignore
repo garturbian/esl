@@ -3,3 +3,6 @@ _site
 .env
 .DS_Store
 *.log
+src/lessons/clean-gdoc.lua
+src/lessons/doc-2-md.py
+src/lessons/.obsidian/

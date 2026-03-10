@@ -1,4 +1,7 @@
 module.exports = function (eleventyConfig) {
+    // Explicitly ignore Obsidian configuration
+    eleventyConfig.ignores.add("src/lessons/.obsidian/");
+
     // Add a custom shortcode for the current year
     eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
