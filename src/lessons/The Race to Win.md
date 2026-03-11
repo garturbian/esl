@@ -4,29 +4,21 @@ title: "The Race to Win"
 tags: lessons
 ---
 
-![The Race to Win](/esl/images/the-race-to-win.png)
+![The Race to Win](/images/the-race-to-win.png)
 
 {% audioPlayer "/audio/the-race-to-win.mp3" %}
 
 She stands at the starting line. She wishes her competitors good luck. They are racing to see who is the fastest. She is nervous. Her hands are already sweating. The whistle goes off. She starts to run. She starts slowly for a few minutes. Later, she speeds up. Her competitors are slow. They are tired. She reaches the finish line. She wins.  
+
 Suddenly, she hears a strange noise. It is a loud roar from the sky. A giant hot air balloon lands next to the finish line! The people watch the balloon with surprise. The race is over, but she is happy. She celebrates her win with her friends. They take pictures next to the balloon. It becomes a fun memory for everyone.
 
 # Keywords:  
 
-competitors - 競爭者    
-Her competitors are racing with her.    
-    
-nervous - 緊張    
-She is nervous before the race starts.    
-    
-whistle - 哨音    
-The whistle goes off to start the race.    
-    
-finish line - 終點線    
-She reaches the finish line and wins.    
-    
-celebrates - 慶祝    
-She celebrates her win with her friends.
+- competitors - 競爭者
+- nervous - 緊張
+- whistle - 哨音
+- finish line - 終點線
+- celebrates - 慶祝
 
 # Questions:  
 
@@ -53,6 +45,3 @@ She celebrates her win with her friends.
 8. She reaches the finish line.    
 9. She hears a strange noise from a giant hot air balloon.    
 10. They take pictures next to the balloon and celebrate.
-
----
-

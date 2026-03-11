@@ -3,74 +3,10 @@
     {
       "original": "hang out",
       "display": "hang out",
-      "type": "phrasal_verb",
+      "type": "vocabulary",
+      "translation": "出去玩",
       "sentence": "Virginia wanted to hang out with her friend Claudia.",
-      "translation": "一起出去玩",
-      "explanation": "hang out 的意思是和朋友一起花時間，例如聊天或出去玩。"
-    },
-    {
-      "original": "hang up",
-      "display": "hung up",
-      "type": "phrasal_verb",
-      "sentence": "They said good-bye and hung up the phone.",
-      "translation": "掛斷電話",
-      "explanation": "意思是結束通話，把電話掛掉。"
-    },
-    {
-      "original": "hang out",
-      "display": "hang out",
-      "type": "phrasal_verb",
-      "sentence": "I would never want to hang out with a liar.",
-      "translation": "一起出去玩",
-      "explanation": "意思是不想和說謊的人一起玩或一起花時間。"
-    },
-    {
-      "original": "hang out",
-      "display": "hang out",
-      "type": "phrasal_verb",
-      "sentence": "# Keywords:\n\nhang out - 出去玩\n\nVirginia wanted to hang out with Claudia after a long time.",
-      "translation": "一起出去玩",
-      "explanation": "hang out 的意思是和朋友一起出去玩或聊天。"
-    },
-    {
-      "original": "hang out",
-      "display": "hang out",
-      "type": "phrasal_verb",
-      "sentence": "Who did Virginia want to hang out with?\n\n2.",
-      "translation": "一起出去玩",
-      "explanation": "hang out 是和朋友一起花時間，例如出去玩。"
-    },
-    {
-      "original": "hang out",
-      "display": "hang out",
-      "type": "phrasal_verb",
-      "sentence": "Virginia wanted to hang out with Claudia.",
-      "translation": "一起出去玩",
-      "explanation": "意思是 Virginia 想和 Claudia 一起出去玩。"
-    },
-    {
-      "original": "hang out",
-      "display": "hang out",
-      "type": "phrasal_verb",
-      "sentence": "I would never want to hang out with a liar.\"",
-      "translation": "一起出去玩",
-      "explanation": "意思是和朋友一起花時間，例如聊天或出去玩。"
-    },
-    {
-      "original": "hang out",
-      "display": "hang out",
-      "type": "phrasal_verb",
-      "sentence": "# Keywords:\n\nhang out - 出去玩  \n\nVirginia wanted to hang out with Claudia after a long time.",
-      "translation": "一起出去玩",
-      "explanation": "意思是和朋友聊天或是去外面玩。"
-    },
-    {
-      "original": "hang out",
-      "display": "hang out",
-      "type": "phrasal_verb",
-      "sentence": "Virginia wanted to hang out with her friend Claudia.",
-      "translation": "一起出去玩",
-      "explanation": "意思是和朋友一起度過愉快的時間。"
+      "explanation": "To spend time relaxing and socializing with friends."
     },
     {
       "original": "lunch",
@@ -78,7 +14,15 @@
       "type": "vocabulary",
       "translation": "午餐",
       "sentence": "Virginia asked, \"Want to get lunch at IHOP?\"",
-      "explanation": "在一天的中午吃的那一餐。"
+      "explanation": "A meal eaten in the middle of the day."
+    },
+    {
+      "original": "ihop",
+      "display": "IHOP",
+      "type": "vocabulary",
+      "translation": "國際煎餅之家 (International House of Pancakes)",
+      "sentence": "Virginia asked, \"Want to get lunch at IHOP?\"",
+      "explanation": "A famous American restaurant chain that specializes in breakfast foods like pancakes."
     },
     {
       "original": "class",
@@ -86,7 +30,7 @@
       "type": "vocabulary",
       "translation": "課程",
       "sentence": "Claudia said, \"I'm sorry, I have class.\"",
-      "explanation": "學生在學校或補習班學習的時間。"
+      "explanation": "A period of time when students are taught a subject in school."
     },
     {
       "original": "sad",
@@ -94,7 +38,7 @@
       "type": "vocabulary",
       "translation": "悲傷的",
       "sentence": "Virginia felt sad.",
-      "explanation": "形容心情不好，覺得難過或是想哭的感覺。"
+      "explanation": "Feeling unhappy or showing sorrow."
     },
     {
       "original": "surprised",
@@ -102,31 +46,31 @@
       "type": "vocabulary",
       "translation": "驚訝的",
       "sentence": "Virginia was surprised to see her.",
-      "explanation": "當發生沒想到的事情時，感到意外的感覺。"
+      "explanation": "Feeling or showing shock because something unexpected happened."
     },
     {
       "original": "lied",
       "display": "lied",
       "type": "vocabulary",
       "translation": "撒謊",
-      "sentence": "I have not seen you for a long time,\" Claudia replied.",
-      "explanation": "說了不是事實的話，欺騙別人。"
+      "sentence": "Virginia thought Claudia had lied about her class.",
+      "explanation": "Past tense of 'lie'; to have said something that is not true."
     },
     {
       "original": "forget it",
       "display": "forget it",
       "type": "vocabulary",
       "translation": "算了",
-      "sentence": "She said, \"Forget it.",
-      "explanation": "表示不想再提某件事，或那件事已經不重要了。"
+      "sentence": "She said, \"Forget it.\"",
+      "explanation": "Used to tell someone that something is not important or to stop talking about it."
     },
     {
       "original": "liar",
       "display": "liar",
       "type": "vocabulary",
       "translation": "說謊者",
-      "sentence": "I would never want to hang out with a liar.\"",
-      "explanation": "經常說謊、不說實話的人。"
+      "sentence": "I would never want to hang out with a liar.",
+      "explanation": "A person who tells things that are not true."
     },
     {
       "original": "call",
@@ -134,15 +78,64 @@
       "type": "vocabulary",
       "translation": "打電話",
       "sentence": "She called Claudia on the phone.",
-      "explanation": "撥打電話號碼與某人聯絡。"
+      "explanation": "To try to speak to someone by using a telephone."
     },
     {
       "original": "friend",
       "display": "friend",
       "type": "vocabulary",
       "translation": "朋友",
-      "explanation": "互相認識、喜歡並互相幫助的人。",
-      "sentence": "Virginia wanted to hang out with her friend Claudia."
+      "sentence": "Virginia wanted to hang out with her friend Claudia.",
+      "explanation": "A person you know well and like, but who is not a member of your family."
+    },
+    {
+      "original": "see each",
+      "display": "seen each",
+      "type": "phrasal_verb",
+      "sentence": "They had not seen each other in four years.",
+      "explanation": "To meet or be in the company of someone else."
+    },
+    {
+      "original": "replie wow",
+      "display": "replied. \"Wow",
+      "type": "phrasal_verb",
+      "sentence": "Claudia replied. \"Wow! I have not seen you for a long time,\"",
+      "explanation": "To answer a question or statement with an exclamation of surprise."
+    },
+    {
+      "original": "get lunch",
+      "display": "get lunch",
+      "type": "phrasal_verb",
+      "sentence": "Virginia asked, \"Want to get lunch at IHOP?\"",
+      "explanation": "To have or buy a midday meal."
+    },
+    {
+      "original": "say good-bye",
+      "display": "said good-bye",
+      "type": "phrasal_verb",
+      "sentence": "They said good-bye and hung up the phone.",
+      "explanation": "To speak words of farewell when leaving or ending a conversation."
+    },
+    {
+      "original": "hang up",
+      "display": "hung up",
+      "type": "phrasal_verb",
+      "sentence": "They said good-bye and hung up the phone.",
+      "explanation": "To end a telephone conversation by putting the phone down or cutting the connection."
+    },
+    {
+      "original": "walk by",
+      "display": "walk by",
+      "type": "phrasal_verb",
+      "sentence": "she saw Claudia walk by.",
+      "explanation": "To walk past a person or place."
+    },
+    {
+      "original": "walk inside",
+      "display": "walked inside",
+      "type": "phrasal_verb",
+      "sentence": "Then she walked inside the restaurant.",
+      "explanation": "To enter a building or room by walking."
     }
   ]
 }

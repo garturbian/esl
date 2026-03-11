@@ -1,44 +1,134 @@
 {
   "vocab_items": [
     {
-      "original": "get up",
-      "display": "get up",
-      "type": "phrasal_verb",
-      "sentence": "At first, he was too lazy to get up.",
-      "translation": "起床",
-      "explanation": "get up 的意思是「起床」。就是從床上起來，不再睡覺。"
+      "original": "lazy",
+      "display": "lazy",
+      "type": "vocabulary",
+      "translation": "懶惰的",
+      "sentence": "Tom was hungry, but he was lazy too.",
+      "explanation": "Not wanting to work or use any effort."
     },
     {
-      "original": "heat up",
-      "display": "Heat up",
-      "type": "phrasal_verb",
-      "sentence": "Heat up 加熱",
-      "translation": "加熱",
-      "explanation": "heat up 的意思是「加熱」。就是讓食物變熱。"
+      "original": "restaurant",
+      "display": "restaurant",
+      "type": "vocabulary",
+      "translation": "餐廳",
+      "sentence": "He didn't want to go to a restaurant.",
+      "explanation": "A place where you can buy and eat a meal."
     },
     {
       "original": "heat up",
       "display": "heat up",
-      "type": "phrasal_verb",
-      "sentence": "She will heat up the soup for lunch.",
-      "translation": "加熱",
-      "explanation": "heat up 的意思是「把食物變熱」。這句話是說：她會把湯加熱。"
-    },
-    {
-      "original": "take out",
-      "display": "took out",
-      "type": "phrasal_verb",
-      "sentence": "Tom took out his phone and went online.",
-      "translation": "取出",
-      "explanation": "take out 的意思是「把東西從裡面拿出來」。took out 是過去式。"
-    },
-    {
-      "original": "Couch 沙發",
-      "display": "Couch 沙發",
       "type": "vocabulary",
-      "translation": "*sofa* 沙發",
-      "sentence": "Couch 沙發  -  *sofa* 沙發  \n  He sat on the couch to watch TV.",
-      "explanation": "TODO: Add explanation"
+      "translation": "加熱",
+      "sentence": "He didn't even want to heat leftovers.",
+      "explanation": "To make food warm or hot so it is ready to eat."
+    },
+    {
+      "original": "leftovers",
+      "display": "leftovers",
+      "type": "vocabulary",
+      "translation": "剩菜",
+      "sentence": "He didn't even want to heat leftovers.",
+      "explanation": "Food that remains after a meal is finished."
+    },
+    {
+      "original": "delivered",
+      "display": "delivered",
+      "type": "vocabulary",
+      "translation": "送貨",
+      "sentence": "He decided to get pizza delivered.",
+      "explanation": "Brought to a person's house or place of work."
+    },
+    {
+      "original": "doorbell",
+      "display": "doorbell",
+      "type": "vocabulary",
+      "translation": "門鈴",
+      "sentence": "Later, he heard the doorbell.",
+      "explanation": "A button outside a house that you press to make a sound inside."
+    },
+    {
+      "original": "delivery man",
+      "display": "delivery man",
+      "type": "vocabulary",
+      "translation": "外送員",
+      "sentence": "He paid the delivery man.",
+      "explanation": "A person whose job is to bring goods or food to customers."
+    },
+    {
+      "original": "tip",
+      "display": "tip",
+      "type": "vocabulary",
+      "translation": "小費",
+      "sentence": "He gave him a tip.",
+      "explanation": "An extra amount of money given to someone for their service."
+    },
+    {
+      "original": "couch",
+      "display": "couch",
+      "type": "vocabulary",
+      "translation": "沙發",
+      "sentence": "Tom sat back on the couch and ate the pizza.",
+      "explanation": "A long, comfortable seat for two or more people; a sofa."
+    },
+    {
+      "original": "full",
+      "display": "full",
+      "type": "vocabulary",
+      "translation": "飽",
+      "sentence": "He was full.",
+      "explanation": "Having eaten enough food so that you do not feel hungry anymore."
+    },
+    {
+      "original": "satisfied",
+      "display": "satisfied",
+      "type": "vocabulary",
+      "translation": "滿足",
+      "sentence": "He felt full and satisfied.",
+      "explanation": "Feeling pleased or happy because you have what you want or need."
+    },
+    {
+      "original": "wait for",
+      "display": "waited for",
+      "type": "phrasal_verb",
+      "sentence": "He waited for the pizza.",
+      "explanation": "To stay in one place until something happens or arrives."
+    },
+    {
+      "original": "get up",
+      "display": "get up",
+      "type": "phrasal_verb",
+      "sentence": "At first, he was too lazy to get up.",
+      "explanation": "To stand up after sitting or lying down."
+    },
+    {
+      "original": "sit back",
+      "display": "sat back",
+      "type": "phrasal_verb",
+      "sentence": "Tom sat back on the couch and ate the pizza.",
+      "explanation": "To relax in a chair and lean against its back."
+    },
+    {
+      "original": "knock at",
+      "display": "knock at",
+      "type": "phrasal_verb",
+      "sentence": "Suddenly, there was a knock at the door again.",
+      "explanation": "The sound of someone hitting a door to get attention."
+    },
+    {
+      "original": "look hungry",
+      "display": "looked hungry",
+      "type": "phrasal_verb",
+      "sentence": "The cat looked hungry too.",
+      "explanation": "To appear as if you want or need food."
+    },
+    {
+      "original": "share with",
+      "display": "shared with",
+      "type": "phrasal_verb",
+      "sentence": "Tom laughed and shared his pizza with the cat.",
+      "explanation": "To give a part of something to someone else."
     }
   ]
 }

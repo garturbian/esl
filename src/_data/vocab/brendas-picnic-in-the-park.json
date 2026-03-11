@@ -1,60 +1,133 @@
 {
   "vocab_items": [
     {
+      "original": "basket",
+      "display": "basket",
+      "type": "vocabulary",
+      "translation": "籃子",
+      "sentence": "She gets a big basket from the kitchen.",
+      "explanation": "A container used for carrying things, often made of thin strips of wood or plastic."
+    },
+    {
+      "original": "sandwiches",
+      "display": "sandwiches",
+      "type": "vocabulary",
+      "translation": "三明治",
+      "sentence": "She puts healthy sandwiches in the basket.",
+      "explanation": "Two pieces of bread with meat, cheese, or vegetables between them."
+    },
+    {
+      "original": "healthy",
+      "display": "healthy",
+      "type": "vocabulary",
+      "translation": "健康的",
+      "sentence": "She puts healthy sandwiches in the basket.",
+      "explanation": "Good for your body and helps you stay strong and well."
+    },
+    {
+      "original": "tasty",
+      "display": "tasty",
+      "type": "vocabulary",
+      "translation": "美味的",
+      "sentence": "The sandwiches are tasty.",
+      "explanation": "Having a very good and pleasant flavor."
+    },
+    {
+      "original": "blanket",
+      "display": "blanket",
+      "type": "vocabulary",
+      "translation": "毛毯",
+      "sentence": "She lays out a soft blanket on the grass.",
+      "explanation": "A large piece of soft cloth used for warmth or to sit on the ground."
+    },
+    {
+      "original": "raining",
+      "display": "raining",
+      "type": "vocabulary",
+      "translation": "下雨",
+      "sentence": "It is raining!",
+      "explanation": "Water falling in drops from the clouds in the sky."
+    },
+    {
+      "original": "bird",
+      "display": "bird",
+      "type": "vocabulary",
+      "translation": "鳥",
+      "sentence": "Then, she notices a small bird sitting nearby.",
+      "explanation": "An animal with wings and feathers that can usually fly."
+    },
+    {
+      "original": "cold",
+      "display": "cold",
+      "type": "vocabulary",
+      "translation": "冷的",
+      "sentence": "The bird looks wet and cold.",
+      "explanation": "Having a low temperature; the opposite of hot."
+    },
+    {
+      "original": "throw",
+      "display": "throw",
+      "type": "vocabulary",
+      "translation": "扔",
+      "sentence": "She throws it gently to the bird.",
+      "explanation": "To use your hand to send something through the air."
+    },
+    {
+      "original": "sing",
+      "display": "sing",
+      "type": "vocabulary",
+      "translation": "唱",
+      "sentence": "To her surprise, the bird starts to sing a happy song.",
+      "explanation": "To make musical sounds with the voice."
+    },
+    {
       "original": "wake up",
       "display": "wakes up",
       "type": "phrasal_verb",
       "sentence": "She wakes up early and feels excited.",
-      "translation": "醒來",
-      "explanation": "wake up 的意思是「醒來」。就是從睡覺變成醒著。這句話是說：她很早醒來。"
+      "explanation": "To stop sleeping and become active."
     },
     {
-      "original": "wake up",
-      "display": "wake up",
+      "original": "put in",
+      "display": "put in",
       "type": "phrasal_verb",
-      "sentence": "Why does she wake up early?\n\n3.",
-      "translation": "醒來",
-      "explanation": "wake up 的意思是「醒來」。就是睡覺後變成醒著。這句是在問：為什麼她很早醒來？"
+      "sentence": "She puts healthy sandwiches in the basket.",
+      "explanation": "To place something inside a container or space."
     },
     {
       "original": "lay out",
       "display": "lays out",
       "type": "phrasal_verb",
       "sentence": "She lays out a soft blanket on the grass.",
-      "translation": "鋪開",
-      "explanation": "lay out 的意思是「把東西鋪開或放好」。這句話是說：她把柔軟的毯子鋪在草地上。"
+      "explanation": "To spread something over a flat surface."
     },
     {
       "original": "look up",
       "display": "looks up",
       "type": "phrasal_verb",
       "sentence": "She looks up and sees dark clouds.",
-      "translation": "抬頭",
-      "explanation": "look up 的意思是「抬頭看」。就是把頭往上看。這句話說：她抬頭看到黑色的雲。"
+      "explanation": "To raise your eyes to see what is above you."
+    },
+    {
+      "original": "put back",
+      "display": "puts back",
+      "type": "phrasal_verb",
+      "sentence": "She puts the food back in the basket.",
+      "explanation": "To return something to its original place."
     },
     {
       "original": "take out",
       "display": "takes out",
       "type": "phrasal_verb",
       "sentence": "She takes out a piece of bread from her basket.",
-      "translation": "取出",
-      "explanation": "take out 的意思是「把東西從裡面拿出來」。這句話是說：她從籃子裡拿出一塊麵包。"
+      "explanation": "To remove something from inside a container."
     },
     {
-      "original": "sit on",
-      "display": "sit on",
+      "original": "start to",
+      "display": "starts to",
       "type": "phrasal_verb",
-      "sentence": "毛毯    \n   She lays the blanket on the grass to sit on.  \n她把毯子放在草地上。\n\n6.",
-      "translation": "坐在…上",
-      "explanation": "sit on 的意思是「坐在某個東西上面」。這句話是說：她把毯子放在草地上，然後坐在上面。"
-    },
-    {
-      "original": "sit on",
-      "display": "sit on",
-      "type": "phrasal_verb",
-      "sentence": "毛毯    \n   She lays the blanket on the grass to sit on.  \n她把毯子放在草地上。\n\n6\\.",
-      "translation": "這是",
-      "explanation": "TODO: Add explanation"
+      "sentence": "To her surprise, the bird starts to sing a happy song.",
+      "explanation": "To begin doing an action."
     }
   ]
 }

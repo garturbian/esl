@@ -1,44 +1,12 @@
 {
   "vocab_items": [
     {
-      "original": "go off",
-      "display": "goes off",
-      "type": "phrasal_verb",
-      "sentence": "The whistle goes off.",
-      "translation": "響起",
-      "explanation": "意思是開始發出聲音。例如哨子突然響起。"
-    },
-    {
-      "original": "speed up",
-      "display": "speeds up",
-      "type": "phrasal_verb",
-      "sentence": "Later, she speeds up.",
-      "translation": "加速",
-      "explanation": "意思是速度變快。例如人跑得更快。"
-    },
-    {
-      "original": "go off",
-      "display": "goes off",
-      "type": "phrasal_verb",
-      "sentence": "whistle - 哨音\nThe whistle goes off to start the race.",
-      "translation": "響起",
-      "explanation": "go off 在這裡是哨聲響起。哨聲響起時，比賽開始。"
-    },
-    {
-      "original": "go off",
-      "display": "goes off",
-      "type": "phrasal_verb",
-      "sentence": "whistle - 哨音    \nThe whistle goes off to start the race.",
-      "translation": "下車",
-      "explanation": "TODO: Add explanation"
-    },
-    {
       "original": "competitors",
       "display": "competitors",
       "type": "vocabulary",
       "translation": "競爭者",
       "sentence": "She wishes her competitors good luck.",
-      "explanation": "TODO: Add explanation"
+      "explanation": "People who take part in a race or contest against others."
     },
     {
       "original": "nervous",
@@ -46,7 +14,7 @@
       "type": "vocabulary",
       "translation": "緊張",
       "sentence": "She is nervous.",
-      "explanation": "TODO: Add explanation"
+      "explanation": "Feeling worried, anxious, or slightly afraid about something."
     },
     {
       "original": "whistle",
@@ -54,7 +22,7 @@
       "type": "vocabulary",
       "translation": "哨音",
       "sentence": "The whistle goes off.",
-      "explanation": "TODO: Add explanation"
+      "explanation": "A small tool that makes a loud, high sound when you blow into it."
     },
     {
       "original": "finish line",
@@ -62,7 +30,7 @@
       "type": "vocabulary",
       "translation": "終點線",
       "sentence": "She reaches the finish line.",
-      "explanation": "TODO: Add explanation"
+      "explanation": "The line that marks the end of a race."
     },
     {
       "original": "celebrates",
@@ -70,7 +38,49 @@
       "type": "vocabulary",
       "translation": "慶祝",
       "sentence": "She celebrates her win with her friends.",
-      "explanation": "TODO: Add explanation"
+      "explanation": "To do something special to show happiness for a success or event."
+    },
+    {
+      "original": "stand at",
+      "display": "stands at",
+      "type": "phrasal_verb",
+      "sentence": "She stands at the starting line.",
+      "explanation": "To be in an upright position at a specific spot."
+    },
+    {
+      "original": "go off",
+      "display": "goes off",
+      "type": "phrasal_verb",
+      "sentence": "The whistle goes off.",
+      "explanation": "To make a sudden loud noise, like an alarm or a whistle."
+    },
+    {
+      "original": "start to",
+      "display": "starts to",
+      "type": "phrasal_verb",
+      "sentence": "She starts to run.",
+      "explanation": "To begin doing an action."
+    },
+    {
+      "original": "speed up",
+      "display": "speeds up",
+      "type": "phrasal_verb",
+      "sentence": "Later, she speeds up.",
+      "explanation": "To start moving faster."
+    },
+    {
+      "original": "land next",
+      "display": "lands next",
+      "type": "phrasal_verb",
+      "sentence": "A giant hot air balloon lands next to the finish line!",
+      "explanation": "To come down from the air and touch the ground beside something."
+    },
+    {
+      "original": "take picture",
+      "display": "take pictures",
+      "type": "phrasal_verb",
+      "sentence": "They take pictures next to the balloon.",
+      "explanation": "To use a camera to capture an image."
     }
   ]
 }

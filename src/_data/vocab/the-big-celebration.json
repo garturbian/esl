@@ -1,28 +1,12 @@
 {
   "vocab_items": [
     {
-      "original": "get back",
-      "display": "get the ball back",
-      "type": "phrasal_verb",
-      "sentence": "The players try to get the ball back but they cannot.",
-      "translation": "拿回來",
-      "explanation": "get back 的意思是「拿回來」或「回到原來的地方」。這句話是說：球員想把球拿回來，但是做不到。"
-    },
-    {
-      "original": "go by",
-      "display": "going by",
-      "type": "phrasal_verb",
-      "sentence": "What is going by outside in the street?",
-      "translation": "過去",
-      "explanation": "TODO: Add explanation"
-    },
-    {
       "original": "celebrate",
       "display": "celebrate",
       "type": "vocabulary",
       "translation": "慶祝",
       "sentence": "They want to celebrate.",
-      "explanation": "TODO: Add explanation"
+      "explanation": "To do something fun because of a special event or success."
     },
     {
       "original": "bakery",
@@ -30,7 +14,7 @@
       "type": "vocabulary",
       "translation": "麵包店",
       "sentence": "Patricia goes to the bakery shop.",
-      "explanation": "TODO: Add explanation"
+      "explanation": "A place where bread, cakes, and cookies are made and sold."
     },
     {
       "original": "decorations",
@@ -38,7 +22,7 @@
       "type": "vocabulary",
       "translation": "裝飾品",
       "sentence": "Linda buys some decorations and Sally buys balloons.",
-      "explanation": "TODO: Add explanation"
+      "explanation": "Things used to make a place look pretty for a party or event."
     },
     {
       "original": "balloons",
@@ -46,15 +30,50 @@
       "type": "vocabulary",
       "translation": "氣球",
       "sentence": "Linda buys some decorations and Sally buys balloons.",
-      "explanation": "TODO: Add explanation"
+      "explanation": "Brightly colored rubber bags filled with air or gas, used as decorations."
     },
     {
-      "original": "Parade",
-      "display": "Parade",
+      "original": "parade",
+      "display": "parade",
       "type": "vocabulary",
       "translation": "遊行",
-      "sentence": "A noisy parade is going passed in the street!",
-      "explanation": "TODO: Add explanation"
+      "sentence": "A noisy parade is going past in the street!",
+      "explanation": "A public event where people and bands walk or drive through the streets to celebrate."
+    },
+    {
+      "original": "shape like",
+      "display": "shaped like",
+      "type": "phrasal_verb",
+      "sentence": "She buys a cake shaped like a basketball.",
+      "explanation": "Having the same form or appearance as something else."
+    },
+    {
+      "original": "meet at",
+      "display": "meet at",
+      "type": "phrasal_verb",
+      "sentence": "All the team members meet at Mary's house for the party.",
+      "explanation": "To come together at a specific location."
+    },
+    {
+      "original": "look out",
+      "display": "look out",
+      "type": "phrasal_verb",
+      "sentence": "They look out the window.",
+      "explanation": "To direct your eyes through a window to see what is outside."
+    },
+    {
+      "original": "go past",
+      "display": "going past",
+      "type": "phrasal_verb",
+      "sentence": "A noisy parade is going past in the street!",
+      "explanation": "To move from one side of something to the other; to pass by."
+    },
+    {
+      "original": "go back",
+      "display": "go back",
+      "type": "phrasal_verb",
+      "sentence": "After the parade ends, they go back into the house.",
+      "explanation": "To return to a place where you were before."
     }
   ]
 }

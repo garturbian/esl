@@ -6,15 +6,15 @@
       "type": "vocabulary",
       "translation": "取笑",
       "sentence": "Her friends often tease her about it, but she doesn’t mind.",
-      "explanation": "To joke with someone or make fun of them, often in a playful way."
+      "explanation": "To make fun of someone in a playful or unkind way."
     },
     {
       "original": "groceries",
       "display": "groceries",
       "type": "vocabulary",
       "translation": "食品雜貨",
-      "sentence": "Every day, she walks to school, to work, and even to the market when she needs groceries.",
-      "explanation": "Food and other things you buy at a supermarket or market."
+      "sentence": "she walks to school, to work, and even to the market when she needs groceries.",
+      "explanation": "Food and other items that you buy at a supermarket or market."
     },
     {
       "original": "relaxing",
@@ -22,15 +22,15 @@
       "type": "vocabulary",
       "translation": "放鬆的",
       "sentence": "She doesn’t get tired easily and finds walking very relaxing.",
-      "explanation": "Something that makes you feel calm and helps you rest."
+      "explanation": "Helping you to rest and feel less stressed or worried."
     },
     {
       "original": "umbrella",
       "display": "umbrella",
       "type": "vocabulary",
       "translation": "雨傘",
-      "sentence": "She didn’t have an umbrella, so she decided to run home, even though she hated running.",
-      "explanation": "A tool you hold over your head to keep yourself dry when it rains."
+      "sentence": "She didn’t have an umbrella, so she decided to run home.",
+      "explanation": "A tool used to keep you dry when it is raining."
     },
     {
       "original": "realized",
@@ -38,7 +38,63 @@
       "type": "vocabulary",
       "translation": "意識到",
       "sentence": "Veronica realized that she was enjoying it.",
-      "explanation": "To suddenly understand or know something."
+      "explanation": "To suddenly understand or become aware of something."
+    },
+    {
+      "original": "mind about",
+      "display": "mind about",
+      "type": "phrasal_verb",
+      "sentence": "Her friends often tease her about it, but she doesn’t mind.",
+      "explanation": "To be annoyed or worried by something."
+    },
+    {
+      "original": "walk for",
+      "display": "walking for",
+      "type": "phrasal_verb",
+      "sentence": "she enjoys walking for long hours.",
+      "explanation": "To continue the activity of walking for a period of time."
+    },
+    {
+      "original": "hurt when",
+      "display": "hurts when",
+      "type": "phrasal_verb",
+      "sentence": "her stomach always hurts when she runs.",
+      "explanation": "To cause pain at a specific moment."
+    },
+    {
+      "original": "buy car",
+      "display": "buy a car",
+      "type": "phrasal_verb",
+      "sentence": "Veronica doesn’t plan to buy a car.",
+      "explanation": "To purchase a vehicle."
+    },
+    {
+      "original": "learn how",
+      "display": "learn how",
+      "type": "phrasal_verb",
+      "sentence": "She doesn’t even want to learn how to drive.",
+      "explanation": "To gain knowledge or skill on how to perform a task."
+    },
+    {
+      "original": "wait at",
+      "display": "waiting at",
+      "type": "phrasal_verb",
+      "sentence": "Veronica was waiting at the bus stop.",
+      "explanation": "To stay in a place until something arrives."
+    },
+    {
+      "original": "run home",
+      "display": "run home",
+      "type": "phrasal_verb",
+      "sentence": "she decided to run home, even though she hated running.",
+      "explanation": "To move quickly toward your house."
+    },
+    {
+      "original": "reach home",
+      "display": "reached home",
+      "type": "phrasal_verb",
+      "sentence": "When she finally reached home, she was smiling.",
+      "explanation": "To arrive at your house after traveling."
     }
   ]
 }
