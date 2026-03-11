@@ -26,6 +26,49 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/audio");
     eleventyConfig.addPassthroughCopy("src/images");
 
+    // Vocabulary Transform
+    eleventyConfig.addTransform("vocab-transform", async function (content) {
+        if (this.outputPath && this.outputPath.endsWith(".html") && this.inputPath.includes("/lessons/")) {
+            const cheerio = require("cheerio");
+            const fs = require("fs");
+            const path = require("path");
+
+            const $ = cheerio.load(content);
+            const fileName = path.basename(this.inputPath, ".md").toLowerCase().replace(/\s+/g, '-').replace(/['’]/g, '');
+            const vocabPath = path.join(__dirname, "src/_data/vocab", `${fileName}.json`);
+
+            if (fs.existsSync(vocabPath)) {
+                const vocabData = JSON.parse(fs.readFileSync(vocabPath, "utf-8"));
+
+                // Process each vocab item
+                const items = vocabData.vocab_items || vocabData.items;
+                    $("p, li, h1, h2, h3").each(function () {
+                        let html = $(this).html();
+                        let text = $(this).text().toLowerCase().trim();
+                        
+                        // Process each item
+                        items.forEach(item => {
+                            const display = item.display;
+                            const escapedDisplay = display.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                            const regex = new RegExp(`(?<!<[^>]*)\\b(${escapedDisplay})\\b(?![^<]*>)`, 'gi');
+                            
+                            // Context match: check if item's sentence (partially) appears in this element
+                            const itemSentence = item.sentence.toLowerCase().trim();
+                            const isContextMatch = text.includes(itemSentence.substring(0, 50)) || itemSentence.includes(text.substring(0, 40));
+
+                            if (isContextMatch && !html.includes(`data-explanation="${item.explanation}"`)) {
+                                html = html.replace(regex, `<span class="vocab-term" data-translation="${item.translation}" data-explanation="${item.explanation}">$1</span>`);
+                            }
+                        });
+                        
+                        $(this).html(html);
+                    });
+            }
+            return $.html();
+        }
+        return content;
+    });
+
     // Configuration
     return {
         dir: {

@@ -1,0 +1,52 @@
+{
+  "vocab_items": [
+    {
+      "original": "wake up",
+      "display": "wakes up",
+      "type": "phrasal_verb",
+      "sentence": "She wakes up early and feels excited.",
+      "translation": "醒來",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "wake up",
+      "display": "wake up",
+      "type": "phrasal_verb",
+      "sentence": "Why does she wake up early?\n\n3.",
+      "translation": "醒來",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "lay out",
+      "display": "lays out",
+      "type": "phrasal_verb",
+      "sentence": "She lays out a soft blanket on the grass.",
+      "translation": "佈局",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "look up",
+      "display": "looks up",
+      "type": "phrasal_verb",
+      "sentence": "She looks up and sees dark clouds.",
+      "translation": "抬頭",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "take out",
+      "display": "takes out",
+      "type": "phrasal_verb",
+      "sentence": "She takes out a piece of bread from her basket.",
+      "translation": "取出",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "sit on",
+      "display": "sit on",
+      "type": "phrasal_verb",
+      "sentence": "毛毯    \n   She lays the blanket on the grass to sit on.  \n她把毯子放在草地上。\n\n6\\.",
+      "translation": "這是",
+      "explanation": "TODO: Add explanation"
+    }
+  ]
+}

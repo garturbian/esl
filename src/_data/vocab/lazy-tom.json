@@ -1,0 +1,36 @@
+{
+  "vocab_items": [
+    {
+      "original": "get up",
+      "display": "get up",
+      "type": "phrasal_verb",
+      "sentence": "At first, he was too lazy to get up.",
+      "translation": "起床",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "heat up",
+      "display": "Heat up",
+      "type": "phrasal_verb",
+      "sentence": "Heat up 加熱",
+      "translation": "加熱",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "heat up",
+      "display": "heat up",
+      "type": "phrasal_verb",
+      "sentence": "She will heat up the soup for lunch.",
+      "translation": "加熱",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "take out",
+      "display": "took out",
+      "type": "phrasal_verb",
+      "sentence": "Tom took out his phone and went online.",
+      "translation": "取出",
+      "explanation": "TODO: Add explanation"
+    }
+  ]
+}

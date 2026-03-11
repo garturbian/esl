@@ -1,0 +1,28 @@
+{
+  "vocab_items": [
+    {
+      "original": "go off",
+      "display": "goes off",
+      "type": "phrasal_verb",
+      "sentence": "The whistle goes off.",
+      "translation": "下車",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "speed up",
+      "display": "speeds up",
+      "type": "phrasal_verb",
+      "sentence": "Later, she speeds up.",
+      "translation": "加速",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "go off",
+      "display": "goes off",
+      "type": "phrasal_verb",
+      "sentence": "whistle - 哨音    \nThe whistle goes off to start the race.",
+      "translation": "下車",
+      "explanation": "TODO: Add explanation"
+    }
+  ]
+}

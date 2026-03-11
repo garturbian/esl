@@ -1,0 +1,164 @@
+{
+  "vocab_items": [
+    {
+      "original": "hang up",
+      "display": "hung up",
+      "type": "phrasal_verb",
+      "sentence": "The man said sorry and hung up.",
+      "translation": "掛斷電話",
+      "explanation": "意思是結束電話，把電話掛掉。"
+    },
+    {
+      "original": "hang up",
+      "display": "hung up",
+      "type": "phrasal_verb",
+      "sentence": "\"I'm sorry, I just really need to find him,\" the man said and hung up quickly.",
+      "translation": "掛斷電話",
+      "explanation": "意思是通話結束，男人很快把電話掛掉。"
+    },
+    {
+      "original": "hang up",
+      "display": "hung up",
+      "type": "phrasal_verb",
+      "sentence": "What did the man say before he hung up the second time? 8.",
+      "translation": "掛斷電話",
+      "explanation": "hang up 是結束電話，把電話掛掉。"
+    },
+    {
+      "original": "hang up",
+      "display": "hung up",
+      "type": "phrasal_verb",
+      "sentence": "The man said he needed to find Tom and hung up quickly.",
+      "translation": "掛斷電話",
+      "explanation": "男人說完話後，很快把電話掛掉。"
+    },
+    {
+      "original": "hang up",
+      "display": "hung up",
+      "type": "phrasal_verb",
+      "sentence": "What did the man say before he hung up the second time?",
+      "translation": "掛斷電話",
+      "explanation": "hang up 的意思是把電話掛掉，結束通話。"
+    },
+    {
+      "original": "turn out",
+      "display": "turns out",
+      "type": "phrasal_verb",
+      "sentence": "It turns out the caller is not who he says he is, and the story ends suddenly.",
+      "translation": "結果發現",
+      "explanation": "意思是最後發現事情的真相。"
+    },
+    {
+      "original": "welcome back",
+      "display": "Welcome back",
+      "type": "phrasal_verb",
+      "sentence": "Sue: Welcome back to the deep dive, where we get up close and personal with stories.",
+      "translation": "歡迎回來",
+      "explanation": "用來歡迎別人再次回來。"
+    },
+    {
+      "original": "get up",
+      "display": "get up",
+      "type": "phrasal_verb",
+      "sentence": "Sue: Welcome back to the deep dive, where we get up close and personal with stories.",
+      "translation": "起來",
+      "explanation": "get up 常見意思是起床或站起來。"
+    },
+    {
+      "original": "throw in",
+      "display": "throw in",
+      "type": "phrasal_verb",
+      "sentence": "The author doesn't throw in any big threats.",
+      "translation": "加入",
+      "explanation": "意思是把某些內容加進去。"
+    },
+    {
+      "original": "conjure up",
+      "display": "conjure up",
+      "type": "phrasal_verb",
+      "sentence": "Our minds can conjure up unsettling possibilities.",
+      "translation": "想像出",
+      "explanation": "意思是在腦中想像出一些事情。"
+    },
+    {
+      "original": "fill in",
+      "display": "fill in",
+      "type": "phrasal_verb",
+      "sentence": "Our brains fill in the blanks with our deepest fears.",
+      "translation": "填補",
+      "explanation": "意思是把缺少的部分補上。"
+    },
+    {
+      "original": "freak out",
+      "display": "freaked out",
+      "type": "phrasal_verb",
+      "sentence": "Sarah is a little freaked out, but she tries to forget about it.",
+      "translation": "嚇壞",
+      "explanation": "意思是非常害怕或很緊張。"
+    },
+    {
+      "original": "pick up",
+      "display": "picks up",
+      "type": "phrasal_verb",
+      "sentence": "Sarah picks up, and the voice says, \"This is Tom.\"",
+      "translation": "接起電話",
+      "explanation": "在這裡意思是接電話。"
+    },
+    {
+      "original": "catch up",
+      "display": "caught up",
+      "type": "phrasal_verb",
+      "sentence": "She's caught up in all of this and doesn't even know it.",
+      "translation": "捲入",
+      "explanation": "意思是被事情牽連或捲入其中。"
+    },
+    {
+      "original": "tangle up",
+      "display": "tangled up",
+      "type": "phrasal_verb",
+      "sentence": "How easy it is to get tangled up in something you don't understand.",
+      "translation": "捲入",
+      "explanation": "意思是陷入複雜或困難的情況。"
+    },
+    {
+      "original": "figure out",
+      "display": "figure out",
+      "type": "phrasal_verb",
+      "sentence": "You keep replaying it, trying to figure out what it means.",
+      "translation": "弄清楚",
+      "explanation": "意思是思考並理解事情。"
+    },
+    {
+      "original": "pop up",
+      "display": "pops up",
+      "type": "phrasal_verb",
+      "sentence": "An unknown number pops up on the phone.",
+      "translation": "出現",
+      "explanation": "意思是突然出現。"
+    },
+    {
+      "original": "go on",
+      "display": "going on",
+      "type": "phrasal_verb",
+      "sentence": "Sarah is caught in the middle of whatever's going on.",
+      "translation": "發生",
+      "explanation": "意思是某件事情正在發生。"
+    },
+    {
+      "original": "hold up",
+      "display": "holding up",
+      "type": "phrasal_verb",
+      "sentence": "The author is holding up a mirror to our anxieties.",
+      "translation": "呈現",
+      "explanation": "意思是把某件事情展示給大家看。"
+    },
+    {
+      "original": "play out",
+      "display": "play out",
+      "type": "phrasal_verb",
+      "sentence": "It makes you think about how this could play out.",
+      "translation": "發展",
+      "explanation": "意思是事情可能會怎麼發展。"
+    }
+  ]
+}

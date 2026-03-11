@@ -1,0 +1,60 @@
+{
+  "vocab_items": [
+    {
+      "original": "hang out",
+      "display": "hang out",
+      "type": "phrasal_verb",
+      "sentence": "Virginia wanted to hang out with her friend Claudia.",
+      "translation": "一起出去玩",
+      "explanation": "意思是和朋友一起出去玩或一起花時間聊天。"
+    },
+    {
+      "original": "hang up",
+      "display": "hung up",
+      "type": "phrasal_verb",
+      "sentence": "They said good-bye and hung up the phone.",
+      "translation": "掛斷電話",
+      "explanation": "意思是結束通話，把電話掛掉。"
+    },
+    {
+      "original": "hang out",
+      "display": "hang out",
+      "type": "phrasal_verb",
+      "sentence": "I would never want to hang out with a liar.",
+      "translation": "一起出去玩",
+      "explanation": "意思是不想和說謊的人一起玩或一起花時間。"
+    },
+    {
+      "original": "hang out",
+      "display": "hang out",
+      "type": "phrasal_verb",
+      "sentence": "# Keywords:\n\nhang out - 出去玩\n\nVirginia wanted to hang out with Claudia after a long time.",
+      "translation": "一起出去玩",
+      "explanation": "hang out 的意思是和朋友一起出去玩或聊天。"
+    },
+    {
+      "original": "hang out",
+      "display": "hang out",
+      "type": "phrasal_verb",
+      "sentence": "Who did Virginia want to hang out with?\n\n2.",
+      "translation": "一起出去玩",
+      "explanation": "hang out 是和朋友一起花時間，例如出去玩。"
+    },
+    {
+      "original": "hang out",
+      "display": "hang out",
+      "type": "phrasal_verb",
+      "sentence": "Virginia wanted to hang out with Claudia.",
+      "translation": "一起出去玩",
+      "explanation": "意思是 Virginia 想和 Claudia 一起出去玩。"
+    },
+    {
+      "original": "hang out",
+      "display": "hang out",
+      "type": "phrasal_verb",
+      "sentence": "Virginia wanted to hang out with her friend Claudia.",
+      "translation": "一起出去玩",
+      "explanation": "hang out 的意思是和朋友一起花時間，例如聊天或出去玩。"
+    }
+  ]
+}
