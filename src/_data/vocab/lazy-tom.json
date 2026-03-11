@@ -6,7 +6,7 @@
       "type": "phrasal_verb",
       "sentence": "At first, he was too lazy to get up.",
       "translation": "起床",
-      "explanation": "TODO: Add explanation"
+      "explanation": "get up 的意思是「起床」。就是從床上起來，不再睡覺。"
     },
     {
       "original": "heat up",
@@ -14,7 +14,7 @@
       "type": "phrasal_verb",
       "sentence": "Heat up 加熱",
       "translation": "加熱",
-      "explanation": "TODO: Add explanation"
+      "explanation": "heat up 的意思是「加熱」。就是讓食物變熱。"
     },
     {
       "original": "heat up",
@@ -22,7 +22,7 @@
       "type": "phrasal_verb",
       "sentence": "She will heat up the soup for lunch.",
       "translation": "加熱",
-      "explanation": "TODO: Add explanation"
+      "explanation": "heat up 的意思是「把食物變熱」。這句話是說：她會把湯加熱。"
     },
     {
       "original": "take out",
@@ -30,7 +30,7 @@
       "type": "phrasal_verb",
       "sentence": "Tom took out his phone and went online.",
       "translation": "取出",
-      "explanation": "TODO: Add explanation"
+      "explanation": "take out 的意思是「把東西從裡面拿出來」。took out 是過去式。"
     }
   ]
 }

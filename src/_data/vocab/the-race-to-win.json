@@ -5,8 +5,8 @@
       "display": "goes off",
       "type": "phrasal_verb",
       "sentence": "The whistle goes off.",
-      "translation": "下車",
-      "explanation": "TODO: Add explanation"
+      "translation": "響起",
+      "explanation": "意思是開始發出聲音。例如哨子突然響起。"
     },
     {
       "original": "speed up",
@@ -14,15 +14,15 @@
       "type": "phrasal_verb",
       "sentence": "Later, she speeds up.",
       "translation": "加速",
-      "explanation": "TODO: Add explanation"
+      "explanation": "意思是速度變快。例如人跑得更快。"
     },
     {
       "original": "go off",
       "display": "goes off",
       "type": "phrasal_verb",
-      "sentence": "whistle - 哨音    \nThe whistle goes off to start the race.",
-      "translation": "下車",
-      "explanation": "TODO: Add explanation"
+      "sentence": "whistle - 哨音\nThe whistle goes off to start the race.",
+      "translation": "響起",
+      "explanation": "go off 在這裡是哨聲響起。哨聲響起時，比賽開始。"
     }
   ]
 }

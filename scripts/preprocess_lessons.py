@@ -91,20 +91,38 @@ def process_lesson(filepath):
         if key not in unique_items:
             unique_items[key] = item
             
+    # Load existing results to preserve manual edits
+    existing_items = {}
+    output_path = os.path.join(output_dir, f"{filename}.json")
+    if os.path.exists(output_path):
+        try:
+            with open(output_path, 'r', encoding='utf-8') as f:
+                old_data = json.load(f)
+                items_list = old_data.get("vocab_items", old_data.get("items", []))
+                for it in items_list:
+                    # Use (original, sentence) as key to match context
+                    key = (it['original'], it['sentence'])
+                    existing_items[key] = it
+        except Exception as e:
+            print(f"  Warning: Could not load existing JSON: {e}")
+
     results = []
     total = len(unique_items)
     for i, (key, item) in enumerate(unique_items.items(), 1):
-        print(f"  [{i}/{total}] Translating automatically: {item['display']}")
-        translation_data = get_automatic_translation(item['original'], item['sentence'])
-        item.update(translation_data)
+        # If we have an existing item with the same key and it has a real explanation, use it
+        if key in existing_items and existing_items[key].get('explanation') != "TODO: Add explanation":
+            print(f"  [{i}/{total}] Preserving manual edit for: {item['display']}")
+            item.update({
+                "translation": existing_items[key].get('translation', item.get('translation', '')),
+                "explanation": existing_items[key]['explanation']
+            })
+        else:
+            print(f"  [{i}/{total}] Translating automatically: {item['display']}")
+            translation_data = get_automatic_translation(item['original'], item['sentence'])
+            item.update(translation_data)
+        
         results.append(item)
     
-    # Save output
-    filename = os.path.basename(filepath).replace(".md", "").lower().replace(" ", "-").replace("’", "").replace("'", "")
-    output_dir = r"c:\Users\Admin\code\eleventy\src\_data\vocab"
-    os.makedirs(output_dir, exist_ok=True)
-    
-    output_path = os.path.join(output_dir, f"{filename}.json")
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump({"vocab_items": results}, f, ensure_ascii=False, indent=2)
     

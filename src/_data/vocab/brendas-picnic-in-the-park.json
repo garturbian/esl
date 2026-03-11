@@ -6,7 +6,7 @@
       "type": "phrasal_verb",
       "sentence": "She wakes up early and feels excited.",
       "translation": "醒來",
-      "explanation": "TODO: Add explanation"
+      "explanation": "wake up 的意思是「醒來」。就是從睡覺變成醒著。這句話是說：她很早醒來。"
     },
     {
       "original": "wake up",
@@ -14,15 +14,15 @@
       "type": "phrasal_verb",
       "sentence": "Why does she wake up early?\n\n3.",
       "translation": "醒來",
-      "explanation": "TODO: Add explanation"
+      "explanation": "wake up 的意思是「醒來」。就是睡覺後變成醒著。這句是在問：為什麼她很早醒來？"
     },
     {
       "original": "lay out",
       "display": "lays out",
       "type": "phrasal_verb",
       "sentence": "She lays out a soft blanket on the grass.",
-      "translation": "佈局",
-      "explanation": "TODO: Add explanation"
+      "translation": "鋪開",
+      "explanation": "lay out 的意思是「把東西鋪開或放好」。這句話是說：她把柔軟的毯子鋪在草地上。"
     },
     {
       "original": "look up",
@@ -30,7 +30,7 @@
       "type": "phrasal_verb",
       "sentence": "She looks up and sees dark clouds.",
       "translation": "抬頭",
-      "explanation": "TODO: Add explanation"
+      "explanation": "look up 的意思是「抬頭看」。就是把頭往上看。這句話說：她抬頭看到黑色的雲。"
     },
     {
       "original": "take out",
@@ -38,15 +38,15 @@
       "type": "phrasal_verb",
       "sentence": "She takes out a piece of bread from her basket.",
       "translation": "取出",
-      "explanation": "TODO: Add explanation"
+      "explanation": "take out 的意思是「把東西從裡面拿出來」。這句話是說：她從籃子裡拿出一塊麵包。"
     },
     {
       "original": "sit on",
       "display": "sit on",
       "type": "phrasal_verb",
-      "sentence": "毛毯    \n   She lays the blanket on the grass to sit on.  \n她把毯子放在草地上。\n\n6\\.",
-      "translation": "這是",
-      "explanation": "TODO: Add explanation"
+      "sentence": "毛毯    \n   She lays the blanket on the grass to sit on.  \n她把毯子放在草地上。\n\n6.",
+      "translation": "坐在…上",
+      "explanation": "sit on 的意思是「坐在某個東西上面」。這句話是說：她把毯子放在草地上，然後坐在上面。"
     }
   ]
 }
