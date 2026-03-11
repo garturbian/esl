@@ -58,7 +58,7 @@ def get_automatic_translation(phrase, sentence):
         translation = GoogleTranslator(source='auto', target='zh-TW').translate(phrase)
         return {
             "translation": translation,
-            "explanation": "TODO: Add explanation"
+            "explanation": "待加入說明"
         }
     except Exception as e:
         print(f"Translation Error for '{phrase}': {e}")
@@ -66,6 +66,47 @@ def get_automatic_translation(phrase, sentence):
             "translation": "Error",
             "explanation": f"Translation failed: {e}"
         }
+
+def extract_keywords_from_markdown(content):
+    """Simple parser to extract items from the # Keywords: section."""
+    keywords = []
+    # Match the section starting with # Keywords: or # Keywords: (with emoji)
+    match = re.search(r'# Keywords:\s*(.*?)(?=\s*# Questions:|\s*---|$)', content, re.DOTALL | re.IGNORECASE)
+    if match:
+        section = match.group(1)
+        # Look for lines like "word - translation" or "word: translation"
+        # or just "word" at the start of a line
+        lines = section.split('\n')
+        for line in lines:
+            line = line.strip()
+            if not line or line.startswith('#'): continue
+            
+            # Pattern: "word - translation" or "word – translation" or "word — translation"
+            parts = re.split(r'\s*[-–—]\s*', line)
+            if len(parts) >= 2:
+                word = parts[0].strip().rstrip(':').strip('*_')
+                translation = parts[1].strip()
+                if word:
+                    keywords.append({
+                        "original": word,
+                        "display": word,
+                        "type": "vocabulary",
+                        "translation": translation,
+                        "sentence": "" # We'll try to find a sentence later or leave blank
+                    })
+            elif ':' in line:
+                parts = line.split(':', 1)
+                word = parts[0].strip().strip('*_')
+                translation = parts[1].strip()
+                if word:
+                    keywords.append({
+                        "original": word,
+                        "display": word,
+                        "type": "vocabulary",
+                        "translation": translation,
+                        "sentence": ""
+                    })
+    return keywords
 
 def process_lesson(filepath):
     """Processes a single lesson file and saves JSON."""
@@ -83,6 +124,16 @@ def process_lesson(filepath):
     doc = nlp(text_content)
     vocab_items = identify_phrasal_verbs(doc)
     
+    # Also extract manual keywords
+    keywords = extract_keywords_from_markdown(content)
+    for kw in keywords:
+        # Try to find a sentence for the keyword
+        for sent in doc.sents:
+            if kw['original'].lower() in sent.text.lower():
+                kw['sentence'] = sent.text.strip()
+                break
+        vocab_items.append(kw)
+    
     # De-duplicate identical phrases in the same lesson 
     # (to avoid excessive API calls for the same verb in the same context)
     unique_items = {}
@@ -91,8 +142,14 @@ def process_lesson(filepath):
         if key not in unique_items:
             unique_items[key] = item
             
-    # Load existing results to preserve manual edits
-    existing_items = {}
+    # Define paths
+    filename = os.path.basename(filepath).replace(".md", "").lower().replace(" ", "-").replace("’", "").replace("'", "")
+    output_dir = r"c:\Users\Admin\code\eleventy\src\_data\vocab"
+    os.makedirs(output_dir, exist_ok=True)
+
+    # Load existing results to preserve ALL manual edits
+    # We use a dict with (original, sentence) as key
+    combined_items = {}
     output_path = os.path.join(output_dir, f"{filename}.json")
     if os.path.exists(output_path):
         try:
@@ -100,31 +157,41 @@ def process_lesson(filepath):
                 old_data = json.load(f)
                 items_list = old_data.get("vocab_items", old_data.get("items", []))
                 for it in items_list:
-                    # Use (original, sentence) as key to match context
                     key = (it['original'], it['sentence'])
-                    existing_items[key] = it
+                    combined_items[key] = it
         except Exception as e:
             print(f"  Warning: Could not load existing JSON: {e}")
 
-    results = []
+    # Add/Update with newly detected items
     total = len(unique_items)
-    for i, (key, item) in enumerate(unique_items.items(), 1):
-        # If we have an existing item with the same key and it has a real explanation, use it
-        if key in existing_items and existing_items[key].get('explanation') != "TODO: Add explanation":
-            print(f"  [{i}/{total}] Preserving manual edit for: {item['display']}")
-            item.update({
-                "translation": existing_items[key].get('translation', item.get('translation', '')),
-                "explanation": existing_items[key]['explanation']
-            })
+    for i, (key, new_item) in enumerate(unique_items.items(), 1):
+        if key in combined_items:
+            # If it already exists, only update if the existing one is a TODO or missing explanation
+            if combined_items[key].get('explanation') in ["TODO: Add explanation", "", None]:
+                 print(f"  [{i}/{total}] Updating TODO for: {new_item['display']}")
+                 translation_data = get_automatic_translation(new_item['original'], new_item['sentence'])
+                 # Keep the translation from the markdown if it was already there
+                 if new_item.get('translation') and combined_items[key].get('translation') == "Error":
+                      combined_items[key]['translation'] = new_item['translation']
+                 combined_items[key]['explanation'] = translation_data['explanation']
+            else:
+                 print(f"  [{i}/{total}] Preserving manual edit for: {new_item['display']}")
         else:
-            print(f"  [{i}/{total}] Translating automatically: {item['display']}")
-            translation_data = get_automatic_translation(item['original'], item['sentence'])
-            item.update(translation_data)
-        
-        results.append(item)
+            # brand new item
+            print(f"  [{i}/{total}] Adding new item: {new_item['display']}")
+            # If it's a keyword from markdown, it might already have a translation
+            if new_item.get('translation') and new_item['translation'] != "Error":
+                new_item['explanation'] = "TODO: Add explanation"
+            else:
+                translation_data = get_automatic_translation(new_item['original'], new_item['sentence'])
+                new_item.update(translation_data)
+            combined_items[key] = new_item
+    
+    # Save the combined results
+    final_results = list(combined_items.values())
     
     with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump({"vocab_items": results}, f, ensure_ascii=False, indent=2)
+        json.dump({"vocab_items": final_results}, f, ensure_ascii=False, indent=2)
     
     print(f"  Saved to: {output_path}")
 

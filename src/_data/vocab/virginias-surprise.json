@@ -6,7 +6,7 @@
       "type": "phrasal_verb",
       "sentence": "Virginia wanted to hang out with her friend Claudia.",
       "translation": "一起出去玩",
-      "explanation": "意思是和朋友一起出去玩或一起花時間聊天。"
+      "explanation": "hang out 的意思是和朋友一起花時間，例如聊天或出去玩。"
     },
     {
       "original": "hang up",
@@ -52,9 +52,97 @@
       "original": "hang out",
       "display": "hang out",
       "type": "phrasal_verb",
+      "sentence": "I would never want to hang out with a liar.\"",
+      "translation": "一起出去玩",
+      "explanation": "意思是和朋友一起花時間，例如聊天或出去玩。"
+    },
+    {
+      "original": "hang out",
+      "display": "hang out",
+      "type": "phrasal_verb",
+      "sentence": "# Keywords:\n\nhang out - 出去玩  \n\nVirginia wanted to hang out with Claudia after a long time.",
+      "translation": "一起出去玩",
+      "explanation": "意思是和朋友聊天或是去外面玩。"
+    },
+    {
+      "original": "hang out",
+      "display": "hang out",
+      "type": "phrasal_verb",
       "sentence": "Virginia wanted to hang out with her friend Claudia.",
       "translation": "一起出去玩",
-      "explanation": "hang out 的意思是和朋友一起花時間，例如聊天或出去玩。"
+      "explanation": "意思是和朋友一起度過愉快的時間。"
+    },
+    {
+      "original": "lunch",
+      "display": "lunch",
+      "type": "vocabulary",
+      "translation": "午餐",
+      "sentence": "Virginia asked, \"Want to get lunch at IHOP?\"",
+      "explanation": "在一天的中午吃的那一餐。"
+    },
+    {
+      "original": "class",
+      "display": "class",
+      "type": "vocabulary",
+      "translation": "課程",
+      "sentence": "Claudia said, \"I'm sorry, I have class.\"",
+      "explanation": "學生在學校或補習班學習的時間。"
+    },
+    {
+      "original": "sad",
+      "display": "sad",
+      "type": "vocabulary",
+      "translation": "悲傷的",
+      "sentence": "Virginia felt sad.",
+      "explanation": "形容心情不好，覺得難過或是想哭的感覺。"
+    },
+    {
+      "original": "surprised",
+      "display": "surprised",
+      "type": "vocabulary",
+      "translation": "驚訝的",
+      "sentence": "Virginia was surprised to see her.",
+      "explanation": "當發生沒想到的事情時，感到意外的感覺。"
+    },
+    {
+      "original": "lied",
+      "display": "lied",
+      "type": "vocabulary",
+      "translation": "撒謊",
+      "sentence": "I have not seen you for a long time,\" Claudia replied.",
+      "explanation": "說了不是事實的話，欺騙別人。"
+    },
+    {
+      "original": "forget it",
+      "display": "forget it",
+      "type": "vocabulary",
+      "translation": "算了",
+      "sentence": "She said, \"Forget it.",
+      "explanation": "表示不想再提某件事，或那件事已經不重要了。"
+    },
+    {
+      "original": "liar",
+      "display": "liar",
+      "type": "vocabulary",
+      "translation": "說謊者",
+      "sentence": "I would never want to hang out with a liar.\"",
+      "explanation": "經常說謊、不說實話的人。"
+    },
+    {
+      "original": "call",
+      "display": "call",
+      "type": "vocabulary",
+      "translation": "打電話",
+      "sentence": "She called Claudia on the phone.",
+      "explanation": "撥打電話號碼與某人聯絡。"
+    },
+    {
+      "original": "friend",
+      "display": "friend",
+      "type": "vocabulary",
+      "translation": "朋友",
+      "explanation": "互相認識、喜歡並互相幫助的人。",
+      "sentence": "Virginia wanted to hang out with her friend Claudia."
     }
   ]
 }

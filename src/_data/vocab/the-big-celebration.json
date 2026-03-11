@@ -7,6 +7,54 @@
       "sentence": "The players try to get the ball back but they cannot.",
       "translation": "拿回來",
       "explanation": "get back 的意思是「拿回來」或「回到原來的地方」。這句話是說：球員想把球拿回來，但是做不到。"
+    },
+    {
+      "original": "go by",
+      "display": "going by",
+      "type": "phrasal_verb",
+      "sentence": "What is going by outside in the street?",
+      "translation": "過去",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "celebrate",
+      "display": "celebrate",
+      "type": "vocabulary",
+      "translation": "慶祝",
+      "sentence": "They want to celebrate.",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "bakery",
+      "display": "bakery",
+      "type": "vocabulary",
+      "translation": "麵包店",
+      "sentence": "Patricia goes to the bakery shop.",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "decorations",
+      "display": "decorations",
+      "type": "vocabulary",
+      "translation": "裝飾品",
+      "sentence": "Linda buys some decorations and Sally buys balloons.",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "balloons",
+      "display": "balloons",
+      "type": "vocabulary",
+      "translation": "氣球",
+      "sentence": "Linda buys some decorations and Sally buys balloons.",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "Parade",
+      "display": "Parade",
+      "type": "vocabulary",
+      "translation": "遊行",
+      "sentence": "A noisy parade is going passed in the street!",
+      "explanation": "TODO: Add explanation"
     }
   ]
 }

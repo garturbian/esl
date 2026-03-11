@@ -1,3 +1,44 @@
 {
-  "vocab_items": []
+  "vocab_items": [
+    {
+      "original": "tease",
+      "display": "tease",
+      "type": "vocabulary",
+      "translation": "取笑",
+      "sentence": "Her friends often tease her about it, but she doesn’t mind.",
+      "explanation": "To joke with someone or make fun of them, often in a playful way."
+    },
+    {
+      "original": "groceries",
+      "display": "groceries",
+      "type": "vocabulary",
+      "translation": "食品雜貨",
+      "sentence": "Every day, she walks to school, to work, and even to the market when she needs groceries.",
+      "explanation": "Food and other things you buy at a supermarket or market."
+    },
+    {
+      "original": "relaxing",
+      "display": "relaxing",
+      "type": "vocabulary",
+      "translation": "放鬆的",
+      "sentence": "She doesn’t get tired easily and finds walking very relaxing.",
+      "explanation": "Something that makes you feel calm and helps you rest."
+    },
+    {
+      "original": "umbrella",
+      "display": "umbrella",
+      "type": "vocabulary",
+      "translation": "雨傘",
+      "sentence": "She didn’t have an umbrella, so she decided to run home, even though she hated running.",
+      "explanation": "A tool you hold over your head to keep yourself dry when it rains."
+    },
+    {
+      "original": "realized",
+      "display": "realized",
+      "type": "vocabulary",
+      "translation": "意識到",
+      "sentence": "Veronica realized that she was enjoying it.",
+      "explanation": "To suddenly understand or know something."
+    }
+  ]
 }

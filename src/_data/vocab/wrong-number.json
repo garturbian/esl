@@ -159,6 +159,206 @@
       "sentence": "It makes you think about how this could play out.",
       "translation": "發展",
       "explanation": "意思是事情可能會怎麼發展。"
+    },
+    {
+      "original": "hang up",
+      "display": "hung up",
+      "type": "phrasal_verb",
+      "sentence": "\"\n\n\"I'm sorry, I just really need to find him,\" the man said and hung up quickly.",
+      "translation": "掛斷",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "hang up",
+      "display": "hung up",
+      "type": "phrasal_verb",
+      "sentence": "What did the man say before he hung up the second time?\n8.",
+      "translation": "掛斷",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "turn out",
+      "display": "turns out",
+      "type": "phrasal_verb",
+      "sentence": "It turns out the caller is not who he says he is, and the story ends suddenly, leaving readers with questions and a feeling of discomfort.",
+      "translation": "結果發現",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "welcome back",
+      "display": "Welcome back",
+      "type": "phrasal_verb",
+      "sentence": "# Transcript:\n\nSue: Welcome back to the deep dive, where we get up close and personal with stories that really stick with you.",
+      "translation": "歡迎回來",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "get up",
+      "display": "get up",
+      "type": "phrasal_verb",
+      "sentence": "# Transcript:\n\nSue: Welcome back to the deep dive, where we get up close and personal with stories that really stick with you.",
+      "translation": "起床",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "conjure up",
+      "display": "conjure up",
+      "type": "phrasal_verb",
+      "sentence": "And that's often when our minds can conjure up the most unsettling possibilities.",
+      "translation": "召喚",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "fill in",
+      "display": "fill in",
+      "type": "phrasal_verb",
+      "sentence": "It's like our brains fill in the blanks with our deepest fears.",
+      "translation": "填寫",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "freak out",
+      "display": "freaked out",
+      "type": "phrasal_verb",
+      "sentence": "So Sarah is a little freaked out, but she tries to just forget about it.",
+      "translation": "嚇壞了",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "pick up",
+      "display": "picks up",
+      "type": "phrasal_verb",
+      "sentence": "And Sarah picks up, and the voice on the other end says, \"This is Tom.",
+      "translation": "撿起",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "tangle up",
+      "display": "tangled up",
+      "type": "phrasal_verb",
+      "sentence": "How easy it is to get tangled up in something you don't even understand.",
+      "translation": "糾結起來",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "figure out",
+      "display": "figure out",
+      "type": "phrasal_verb",
+      "sentence": "David: You keep replaying it, trying to figure out what it all means.",
+      "translation": "弄清楚",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "pop up",
+      "display": "pops up",
+      "type": "phrasal_verb",
+      "sentence": "Sue: It just makes you think twice about answering the phone next time an unknown number pops up, right?",
+      "translation": "彈出視窗",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "go on",
+      "display": "going on",
+      "type": "phrasal_verb",
+      "sentence": "And suddenly Sarah is caught in the middle of whatever's going on because she answered the phone.",
+      "translation": "繼續",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "hold up",
+      "display": "holding up",
+      "type": "phrasal_verb",
+      "sentence": "It's like the author is holding up a mirror to our own anxieties, the things we try not to think about in our everyday lives.",
+      "translation": "耽誤",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "play out",
+      "display": "play out",
+      "type": "phrasal_verb",
+      "sentence": "And it makes you think about all the different ways this could play out.",
+      "translation": "發揮出來",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "wrong number",
+      "display": "wrong number",
+      "type": "vocabulary",
+      "translation": "錯誤的號碼\\",
+      "sentence": "\"No, sorry, you have the wrong number,\" Sara said politely.",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "polite",
+      "display": "polite",
+      "type": "vocabulary",
+      "translation": "有禮貌的\\",
+      "sentence": "\"No, sorry, you have the wrong number,\" Sara said politely.",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "apologized",
+      "display": "apologized",
+      "type": "vocabulary",
+      "translation": "道歉\\",
+      "sentence": "# Keywords: \n\nwrong number - 錯誤的號碼\\\nSara told the man that he had the wrong number.\n\npolite - 有禮貌的\\\nSara was polite when she answered the phone.\n\napologized - 道歉\\\nThe man apologized for calling Sara.\n\ncurious - 好奇的\\\nSara felt curious about why the man called again.\n\nworried - 擔心的\\\nThe man sounded worried when he said he needed to talk.\n\nsighed - 嘆息\\\nSara sighed when she told the man to stop calling.\n\nstrange - 奇怪的\\\nSara thought it was strange that the man called her again.\n\nunknown - 不知道的\\\nThe phone rang with an unknown number later that night.\n\nfroze - 僵住\\\nSara froze when she heard Tom's voice on the phone.\n\nserious - 認真的\\\nThe voice on the other end was serious when it said, \"This is Tom.\"\n\n# Questions:\n\n1.",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "curious",
+      "display": "curious",
+      "type": "vocabulary",
+      "translation": "好奇的\\",
+      "sentence": "Sara answered, feeling curious.",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "worried",
+      "display": "worried",
+      "type": "vocabulary",
+      "translation": "擔心的\\",
+      "sentence": "the man said, sounding worried.",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "sighed",
+      "display": "sighed",
+      "type": "vocabulary",
+      "translation": "嘆息\\",
+      "sentence": "Sara sighed.",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "strange",
+      "display": "strange",
+      "type": "vocabulary",
+      "translation": "奇怪的\\",
+      "sentence": "Sara thought it was strange, but she did not worry much.",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "unknown",
+      "display": "unknown",
+      "type": "vocabulary",
+      "translation": "不知道的\\",
+      "sentence": "Later that night, her phone rang again, but this time it was an unknown number.",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "froze",
+      "display": "froze",
+      "type": "vocabulary",
+      "translation": "僵住\\",
+      "sentence": "Who has been looking for me?\"\n\nSara froze.",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "serious",
+      "display": "serious",
+      "type": "vocabulary",
+      "translation": "認真的\\",
+      "sentence": "The voice on the other end was deep and serious.",
+      "explanation": "TODO: Add explanation"
     }
   ]
 }

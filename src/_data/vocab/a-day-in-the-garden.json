@@ -6,7 +6,7 @@
       "type": "phrasal_verb",
       "sentence": "One day, a small frog jumps out from behind the flowers.",
       "translation": "跳出來",
-      "explanation": "TODO: Add explanation"
+      "explanation": "To move quickly from a hidden place to the outside."
     },
     {
       "original": "jump out",
@@ -14,7 +14,7 @@
       "type": "phrasal_verb",
       "sentence": "What jumps out from behind the flowers?",
       "translation": "跳出來",
-      "explanation": "TODO: Add explanation"
+      "explanation": "To jump quickly and suddenly from inside or behind something."
     },
     {
       "original": "jump out",
@@ -22,7 +22,47 @@
       "type": "phrasal_verb",
       "sentence": "A small frog jumps out from behind the flowers.",
       "translation": "跳出來",
-      "explanation": "TODO: Add explanation"
+      "explanation": "Starting in a hidden spot and jumping into view suddenly."
+    },
+    {
+      "original": "garden",
+      "display": "garden",
+      "type": "vocabulary",
+      "translation": "花園",
+      "sentence": "[A Day in the Garden](/esl/images/a-day-in-the-garden.png)",
+      "explanation": "A piece of land next to a house where flowers and plants are grown."
+    },
+    {
+      "original": "flowers",
+      "display": "flowers",
+      "type": "vocabulary",
+      "translation": "花",
+      "sentence": "There are many flowers.",
+      "explanation": "The colorful and pretty parts of a plant that smell nice."
+    },
+    {
+      "original": "fountain",
+      "display": "fountain",
+      "type": "vocabulary",
+      "translation": "噴泉",
+      "sentence": "There is also a fountain.",
+      "explanation": "A structure that sends water up into the air, usually for beauty."
+    },
+    {
+      "original": "coins",
+      "display": "coins",
+      "type": "vocabulary",
+      "translation": "硬幣",
+      "sentence": "Kids throw coins into it.",
+      "explanation": "Small, flat, round pieces of metal used as money."
+    },
+    {
+      "original": "excited",
+      "display": "excited",
+      "type": "vocabulary",
+      "translation": "興奮的",
+      "sentence": "They are excited.",
+      "explanation": "Feeling very happy, energetic, and full of interest."
     }
   ]
 }

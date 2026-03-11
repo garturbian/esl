@@ -23,6 +23,54 @@
       "sentence": "whistle - 哨音\nThe whistle goes off to start the race.",
       "translation": "響起",
       "explanation": "go off 在這裡是哨聲響起。哨聲響起時，比賽開始。"
+    },
+    {
+      "original": "go off",
+      "display": "goes off",
+      "type": "phrasal_verb",
+      "sentence": "whistle - 哨音    \nThe whistle goes off to start the race.",
+      "translation": "下車",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "competitors",
+      "display": "competitors",
+      "type": "vocabulary",
+      "translation": "競爭者",
+      "sentence": "She wishes her competitors good luck.",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "nervous",
+      "display": "nervous",
+      "type": "vocabulary",
+      "translation": "緊張",
+      "sentence": "She is nervous.",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "whistle",
+      "display": "whistle",
+      "type": "vocabulary",
+      "translation": "哨音",
+      "sentence": "The whistle goes off.",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "finish line",
+      "display": "finish line",
+      "type": "vocabulary",
+      "translation": "終點線",
+      "sentence": "She reaches the finish line.",
+      "explanation": "TODO: Add explanation"
+    },
+    {
+      "original": "celebrates",
+      "display": "celebrates",
+      "type": "vocabulary",
+      "translation": "慶祝",
+      "sentence": "She celebrates her win with her friends.",
+      "explanation": "TODO: Add explanation"
     }
   ]
 }

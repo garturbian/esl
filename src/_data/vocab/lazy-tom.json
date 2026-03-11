@@ -31,6 +31,14 @@
       "sentence": "Tom took out his phone and went online.",
       "translation": "取出",
       "explanation": "take out 的意思是「把東西從裡面拿出來」。took out 是過去式。"
+    },
+    {
+      "original": "Couch 沙發",
+      "display": "Couch 沙發",
+      "type": "vocabulary",
+      "translation": "*sofa* 沙發",
+      "sentence": "Couch 沙發  -  *sofa* 沙發  \n  He sat on the couch to watch TV.",
+      "explanation": "TODO: Add explanation"
     }
   ]
 }
