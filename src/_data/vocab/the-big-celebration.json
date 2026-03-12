@@ -44,6 +44,7 @@
       "original": "shape like",
       "display": "shaped like",
       "type": "phrasal_verb",
+      "translation": "形狀像",
       "sentence": "She buys a cake shaped like a basketball.",
       "explanation": "Having the same form or appearance as something else."
     },
@@ -51,6 +52,7 @@
       "original": "meet at",
       "display": "meet at",
       "type": "phrasal_verb",
+      "translation": "在...見面",
       "sentence": "All the team members meet at Mary's house for the party.",
       "explanation": "To come together at a specific location."
     },
@@ -58,6 +60,7 @@
       "original": "look out",
       "display": "look out",
       "type": "phrasal_verb",
+      "translation": "向外看",
       "sentence": "They look out the window.",
       "explanation": "To direct your eyes through a window to see what is outside."
     },
@@ -65,6 +68,7 @@
       "original": "go past",
       "display": "going past",
       "type": "phrasal_verb",
+      "translation": "經過",
       "sentence": "A noisy parade is going past in the street!",
       "explanation": "To move from one side of something to the other; to pass by."
     },
@@ -72,6 +76,7 @@
       "original": "go back",
       "display": "go back",
       "type": "phrasal_verb",
+      "translation": "回去",
       "sentence": "After the parade ends, they go back into the house.",
       "explanation": "To return to a place where you were before."
     }

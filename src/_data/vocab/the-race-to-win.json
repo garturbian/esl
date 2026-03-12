@@ -44,6 +44,7 @@
       "original": "stand at",
       "display": "stands at",
       "type": "phrasal_verb",
+      "translation": "站在",
       "sentence": "She stands at the starting line.",
       "explanation": "To be in an upright position at a specific spot."
     },
@@ -51,6 +52,7 @@
       "original": "go off",
       "display": "goes off",
       "type": "phrasal_verb",
+      "translation": "響起",
       "sentence": "The whistle goes off.",
       "explanation": "To make a sudden loud noise, like an alarm or a whistle."
     },
@@ -58,6 +60,7 @@
       "original": "start to",
       "display": "starts to",
       "type": "phrasal_verb",
+      "translation": "開始",
       "sentence": "She starts to run.",
       "explanation": "To begin doing an action."
     },
@@ -65,6 +68,7 @@
       "original": "speed up",
       "display": "speeds up",
       "type": "phrasal_verb",
+      "translation": "加速",
       "sentence": "Later, she speeds up.",
       "explanation": "To start moving faster."
     },
@@ -72,6 +76,7 @@
       "original": "land next",
       "display": "lands next",
       "type": "phrasal_verb",
+      "translation": "降落在...旁邊",
       "sentence": "A giant hot air balloon lands next to the finish line!",
       "explanation": "To come down from the air and touch the ground beside something."
     },
@@ -79,6 +84,7 @@
       "original": "take picture",
       "display": "take pictures",
       "type": "phrasal_verb",
+      "translation": "拍照",
       "sentence": "They take pictures next to the balloon.",
       "explanation": "To use a camera to capture an image."
     }

@@ -92,6 +92,7 @@
       "original": "see each",
       "display": "seen each",
       "type": "phrasal_verb",
+      "translation": "見面",
       "sentence": "They had not seen each other in four years.",
       "explanation": "To meet or be in the company of someone else."
     },
@@ -99,6 +100,7 @@
       "original": "replie wow",
       "display": "replied. \"Wow",
       "type": "phrasal_verb",
+      "translation": "回答：哇！",
       "sentence": "Claudia replied. \"Wow! I have not seen you for a long time,\"",
       "explanation": "To answer a question or statement with an exclamation of surprise."
     },
@@ -106,6 +108,7 @@
       "original": "get lunch",
       "display": "get lunch",
       "type": "phrasal_verb",
+      "translation": "吃午餐",
       "sentence": "Virginia asked, \"Want to get lunch at IHOP?\"",
       "explanation": "To have or buy a midday meal."
     },
@@ -113,6 +116,7 @@
       "original": "say good-bye",
       "display": "said good-bye",
       "type": "phrasal_verb",
+      "translation": "說再見",
       "sentence": "They said good-bye and hung up the phone.",
       "explanation": "To speak words of farewell when leaving or ending a conversation."
     },
@@ -120,6 +124,7 @@
       "original": "hang up",
       "display": "hung up",
       "type": "phrasal_verb",
+      "translation": "掛斷電話",
       "sentence": "They said good-bye and hung up the phone.",
       "explanation": "To end a telephone conversation by putting the phone down or cutting the connection."
     },
@@ -127,6 +132,7 @@
       "original": "walk by",
       "display": "walk by",
       "type": "phrasal_verb",
+      "translation": "走過",
       "sentence": "she saw Claudia walk by.",
       "explanation": "To walk past a person or place."
     },
@@ -134,6 +140,7 @@
       "original": "walk inside",
       "display": "walked inside",
       "type": "phrasal_verb",
+      "translation": "走進去",
       "sentence": "Then she walked inside the restaurant.",
       "explanation": "To enter a building or room by walking."
     }

@@ -44,6 +44,7 @@
       "original": "mind about",
       "display": "mind about",
       "type": "phrasal_verb",
+      "translation": "介意",
       "sentence": "Her friends often tease her about it, but she doesn’t mind.",
       "explanation": "To be annoyed or worried by something."
     },
@@ -51,6 +52,7 @@
       "original": "walk for",
       "display": "walking for",
       "type": "phrasal_verb",
+      "translation": "走路(持續一段時間)",
       "sentence": "she enjoys walking for long hours.",
       "explanation": "To continue the activity of walking for a period of time."
     },
@@ -58,6 +60,7 @@
       "original": "hurt when",
       "display": "hurts when",
       "type": "phrasal_verb",
+      "translation": "在...時感到疼痛",
       "sentence": "her stomach always hurts when she runs.",
       "explanation": "To cause pain at a specific moment."
     },
@@ -65,6 +68,7 @@
       "original": "buy car",
       "display": "buy a car",
       "type": "phrasal_verb",
+      "translation": "買車",
       "sentence": "Veronica doesn’t plan to buy a car.",
       "explanation": "To purchase a vehicle."
     },
@@ -72,6 +76,7 @@
       "original": "learn how",
       "display": "learn how",
       "type": "phrasal_verb",
+      "translation": "學習如何",
       "sentence": "She doesn’t even want to learn how to drive.",
       "explanation": "To gain knowledge or skill on how to perform a task."
     },
@@ -79,6 +84,7 @@
       "original": "wait at",
       "display": "waiting at",
       "type": "phrasal_verb",
+      "translation": "在...等待",
       "sentence": "Veronica was waiting at the bus stop.",
       "explanation": "To stay in a place until something arrives."
     },
@@ -86,6 +92,7 @@
       "original": "run home",
       "display": "run home",
       "type": "phrasal_verb",
+      "translation": "跑回家",
       "sentence": "she decided to run home, even though she hated running.",
       "explanation": "To move quickly toward your house."
     },
@@ -93,6 +100,7 @@
       "original": "reach home",
       "display": "reached home",
       "type": "phrasal_verb",
+      "translation": "回到家",
       "sentence": "When she finally reached home, she was smiling.",
       "explanation": "To arrive at your house after traveling."
     }

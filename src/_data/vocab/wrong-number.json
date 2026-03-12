@@ -84,6 +84,7 @@
       "original": "hang up",
       "display": "hung up",
       "type": "phrasal_verb",
+      "translation": "掛斷電話",
       "sentence": "The man said sorry and hung up.",
       "explanation": "To end a telephone conversation."
     },
@@ -91,6 +92,7 @@
       "original": "look for",
       "display": "looking for",
       "type": "phrasal_verb",
+      "translation": "尋找",
       "sentence": "Who has been looking for me?\"",
       "explanation": "To search for something or someone."
     }

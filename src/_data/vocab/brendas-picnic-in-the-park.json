@@ -84,6 +84,7 @@
       "original": "wake up",
       "display": "wakes up",
       "type": "phrasal_verb",
+      "translation": "醒來",
       "sentence": "She wakes up early and feels excited.",
       "explanation": "To stop sleeping and become active."
     },
@@ -91,6 +92,7 @@
       "original": "put in",
       "display": "put in",
       "type": "phrasal_verb",
+      "translation": "放進",
       "sentence": "She puts healthy sandwiches in the basket.",
       "explanation": "To place something inside a container or space."
     },
@@ -98,6 +100,7 @@
       "original": "lay out",
       "display": "lays out",
       "type": "phrasal_verb",
+      "translation": "鋪開",
       "sentence": "She lays out a soft blanket on the grass.",
       "explanation": "To spread something over a flat surface."
     },
@@ -105,6 +108,7 @@
       "original": "look up",
       "display": "looks up",
       "type": "phrasal_verb",
+      "translation": "抬頭看",
       "sentence": "She looks up and sees dark clouds.",
       "explanation": "To raise your eyes to see what is above you."
     },
@@ -112,6 +116,7 @@
       "original": "put back",
       "display": "puts back",
       "type": "phrasal_verb",
+      "translation": "放回",
       "sentence": "She puts the food back in the basket.",
       "explanation": "To return something to its original place."
     },
@@ -119,6 +124,7 @@
       "original": "take out",
       "display": "takes out",
       "type": "phrasal_verb",
+      "translation": "拿出",
       "sentence": "She takes out a piece of bread from her basket.",
       "explanation": "To remove something from inside a container."
     },
@@ -126,6 +132,7 @@
       "original": "start to",
       "display": "starts to",
       "type": "phrasal_verb",
+      "translation": "開始",
       "sentence": "To her surprise, the bird starts to sing a happy song.",
       "explanation": "To begin doing an action."
     }

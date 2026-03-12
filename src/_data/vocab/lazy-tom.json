@@ -92,6 +92,7 @@
       "original": "wait for",
       "display": "waited for",
       "type": "phrasal_verb",
+      "translation": "等待",
       "sentence": "He waited for the pizza.",
       "explanation": "To stay in one place until something happens or arrives."
     },
@@ -99,13 +100,15 @@
       "original": "get up",
       "display": "get up",
       "type": "phrasal_verb",
+      "translation": "起床/起來",
       "sentence": "At first, he was too lazy to get up.",
       "explanation": "To stand up after sitting or lying down."
     },
     {
       "original": "sit back",
-      "display": "sat back",
+      "display": "sit back",
       "type": "phrasal_verb",
+      "translation": "坐回/向後坐",
       "sentence": "Tom sat back on the couch and ate the pizza.",
       "explanation": "To relax in a chair and lean against its back."
     },
@@ -113,6 +116,7 @@
       "original": "knock at",
       "display": "knock at",
       "type": "phrasal_verb",
+      "translation": "敲門",
       "sentence": "Suddenly, there was a knock at the door again.",
       "explanation": "The sound of someone hitting a door to get attention."
     },
@@ -120,6 +124,7 @@
       "original": "look hungry",
       "display": "looked hungry",
       "type": "phrasal_verb",
+      "translation": "看起來很餓",
       "sentence": "The cat looked hungry too.",
       "explanation": "To appear as if you want or need food."
     },
@@ -127,6 +132,7 @@
       "original": "share with",
       "display": "shared with",
       "type": "phrasal_verb",
+      "translation": "分享",
       "sentence": "Tom laughed and shared his pizza with the cat.",
       "explanation": "To give a part of something to someone else."
     }

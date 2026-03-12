@@ -44,6 +44,7 @@
       "original": "pass ball",
       "display": "passes the ball",
       "type": "phrasal_verb",
+      "translation": "傳球",
       "sentence": "Her teammate passes the ball to her.",
       "explanation": "To throw or kick the ball to another player on your team."
     },
@@ -51,6 +52,7 @@
       "original": "shoot ball",
       "display": "shoots the ball",
       "type": "phrasal_verb",
+      "translation": "投球",
       "sentence": "She shoots the ball into the basket.",
       "explanation": "To throw the ball toward the goal."
     },
@@ -58,6 +60,7 @@
       "original": "run onto",
       "display": "runs onto",
       "type": "phrasal_verb",
+      "translation": "跑進",
       "sentence": "Suddenly, a dog runs onto the court!",
       "explanation": "To enter a field or court by running."
     }

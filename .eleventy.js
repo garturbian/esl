@@ -39,30 +39,29 @@ module.exports = function (eleventyConfig) {
 
             if (fs.existsSync(vocabPath)) {
                 const vocabData = JSON.parse(fs.readFileSync(vocabPath, "utf-8"));
+                let items = vocabData.vocab_items || vocabData.items || [];
 
-                // Process each vocab item
-                const items = vocabData.vocab_items || vocabData.items;
-                    $("p, li, h1, h2, h3").each(function () {
-                        let html = $(this).html();
-                        let text = $(this).text().toLowerCase().trim();
-                        
-                        // Process each item
-                        items.forEach(item => {
-                            const display = item.display;
-                            const escapedDisplay = display.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-                            const regex = new RegExp(`(?<!<[^>]*)\\b(${escapedDisplay})\\b(?![^<]*>)`, 'gi');
-                            
-                            // Context match: check if item's sentence (partially) appears in this element
-                            const itemSentence = item.sentence.toLowerCase().trim();
-                            const isContextMatch = text.includes(itemSentence.substring(0, 50)) || itemSentence.includes(text.substring(0, 40));
+                // Sort items by length (descending) to avoid partial matches overriding longer phrases
+                items.sort((a, b) => b.display.length - a.display.length);
 
-                            if (isContextMatch && !html.includes(`data-explanation="${item.explanation}"`)) {
-                                html = html.replace(regex, `<span class="vocab-term" data-translation="${item.translation}" data-explanation="${item.explanation}">$1</span>`);
-                            }
-                        });
+                $("p, li, h1, h2, h3").each(function () {
+                    let html = $(this).html();
+                    let text = $(this).text().toLowerCase().trim();
+                    
+                    items.forEach(item => {
+                        const display = item.display;
+                        const escapedDisplay = display.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                        const regex = new RegExp(`(?<!<[^>]*)\\b(${escapedDisplay})\\b(?![^<]*>)`, 'gi');
                         
-                        $(this).html(html);
+                        // Always allow matching if item has required fields, 
+                        // but only if not already wrapped in a vocab-term
+                        if (item.translation && item.explanation) {
+                            html = html.replace(regex, `<span class="vocab-term" data-translation="${item.translation}" data-explanation="${item.explanation}">$1</span>`);
+                        }
                     });
+                    
+                    $(this).html(html);
+                });
             }
             return $.html();
         }
