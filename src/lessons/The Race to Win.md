@@ -4,7 +4,7 @@ title: "The Race to Win"
 tags: lessons
 ---
 
-![The Race to Win](/images/the-race-to-win.png)
+![The Race to Win]({{ '/images/the-race-to-win.png' | url }})
 
 {% audioPlayer "/audio/the-race-to-win.mp3" %}
 

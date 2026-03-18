@@ -6,7 +6,7 @@ tags: lessons
 
 [Google Doc](https://docs.google.com/document/d/1YvjQODeR2ErLc6mBrkAXsfrEM8NPDtPPxa26tMJYTuU)
 
-![The Big Basketball Game](/images/the-big-basketball-game.png)
+![The Big Basketball Game]({{ '/images/the-big-basketball-game.png' | url }})
 
 {% audioPlayer "/audio/the-big-basketball-game.mp3" %}
 

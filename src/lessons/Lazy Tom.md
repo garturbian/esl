@@ -4,7 +4,7 @@ title: "Lazy Tom"
 tags: lessons
 ---
 
-![Lazy Tom](/images/lazy-tom.png)
+![Lazy Tom]({{ '/images/lazy-tom.png' | url }})
 
 {% audioPlayer "/audio/lazy-tom.mp3" %}
 

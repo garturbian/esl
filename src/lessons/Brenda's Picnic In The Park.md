@@ -4,7 +4,7 @@ title: "Brenda's Picnic In The Park"
 tags: lessons
 ---
 
-![Brenda's Picnic In The Park](/images/brendas-picnic-in-the-park.png)
+![Brenda's Picnic In The Park]({{ '/images/brendas-picnic-in-the-park.png' | url }})
 
 [Google Doc](https://docs.google.com/document/d/1KnB7rwtm5J98Pw8id3NVr8VgvdIO8Z0rgy5uNX-n4uQ)
 

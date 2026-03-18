@@ -8,7 +8,7 @@ tags: lessons
 
 {% audioPlayer "/audio/a-day-in-the-garden.mp3" %}
 
-![A Day in the Garden](/images/a-day-in-the-garden.png)
+![A Day in the Garden]({{ '/images/a-day-in-the-garden.png' | url }})
 
 The garden is beautiful. The garden is big. There are many flowers. There are pink flowers. There are purple flowers. There are small flowers. There are big flowers. The gardener plants more flowers. There is also a fountain. Kids sit next to it. Kids throw coins into it. Their parents smile.
 
