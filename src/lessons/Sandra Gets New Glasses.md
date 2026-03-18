@@ -9,7 +9,7 @@ tags: lessons
 [Link](https://docs.google.com/document/d/1pE09-_y8Zx041xbI46ur_clLFXb-c6SU7-_DLqfFwgo/edit?tab=t.0)
 
 
-{% image "/images/sandra-get-new-glasses.png", "Sandra Gets New Glasses" %}
+![Sandra Gets New Glasses](/images/sandra-get-new-glasses.png)
 
 {% audioPlayer "/audio/sandra-get-new-glasses1.mp3" %}
 
