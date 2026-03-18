@@ -8,6 +8,9 @@ tags: lessons
 
 [Link](https://docs.google.com/document/d/1pE09-_y8Zx041xbI46ur_clLFXb-c6SU7-_DLqfFwgo/edit?tab=t.0)
 
+
+{% image "/images/sandra-get-new-glasses.png", "Sandra Gets New Glasses" %}
+
 {% audioPlayer "/audio/sandra-get-new-glasses1.mp3" %}
 
 Sandra cannot see well. When she looks outside, a bird looks like a pillow. A pillow looks like a marshmallow. A marshmallow looks like a tree. A tree looks like a bee. Sandra feels confused. She cannot tell things apart. 
