@@ -1,7 +1,14 @@
+---
+layout: layouts/base.njk
+title: "Sandra Gets New Glasses"
+tags: lessons
+---
 
 [Sandra Gets New Glasses](https://audio.com/gart-turian/audio/sandra-needs-glasses)
 
 [Link](https://docs.google.com/document/d/1pE09-_y8Zx041xbI46ur_clLFXb-c6SU7-_DLqfFwgo/edit?tab=t.0)
+
+{% audioPlayer "/audio/sandra-get-new-glasses1.mp3" %}
 
 Sandra cannot see well. When she looks outside, a bird looks like a pillow. A pillow looks like a marshmallow. A marshmallow looks like a tree. A tree looks like a bee. Sandra feels confused. She cannot tell things apart. 
 
@@ -11,6 +18,8 @@ Sandra cannot see well. When she looks outside, a bird looks like a pillow. A pi
 4: Can she tell the difference between a tree and a bee?  
 5: Have you ever felt confused like Sandra? Why?
 
+{% audioPlayer "/audio/sandra-get-new-glasses2.mp3" %}
+
 Sandra goes to the doctor. The doctor checks her eyes. He gives her glasses. Sandra puts them on. She looks around. She can see everything! She looks at the doctor and sees that his eyes are blue. The room is clear and bright.
 
 1: Why does Sandra go to the doctor?  
@@ -19,6 +28,8 @@ Sandra goes to the doctor. The doctor checks her eyes. He gives her glasses. San
 4: What color are the doctor’s eyes?  
 5: How does the room look now?  
 6: Do you think Sandra feels happy now? Why?
+
+{% audioPlayer "/audio/sandra-get-new-glasses3.mp3" %}
 
 Sandra thanks the doctor and leaves the clinic. She walks outside with her new glasses. Suddenly , she sees her friend Tom, who waves at her. She smiles and waves back. But then, she realizes the person is not Tom—it's a stranger! ！ Sandra laughs and thinks, "I still need some practice with my new glasses!"
 
