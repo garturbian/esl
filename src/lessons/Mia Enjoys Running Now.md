@@ -48,7 +48,7 @@ Running is not the same for Mia. When she runs quickly, her stomach hurts. She d
 3: What do her friends say?  
 4: What does Mia think is better?
 
-Mia has a new job far away. She does not plan to learn how to drive.'Instead', she plans to take the bus. One day, she was waiting at the bus stop, but the bus was late. It started to rain, and she had no umbrella.
+Mia has a new job far away. She does not plan to learn how to drive.    'Instead', she plans to take the bus. One day, she was waiting at the bus stop, but the bus was late. It started to rain, and she had no umbrella.
 
 {% audioPlayer "/audio/mia-enjoys-running-now4.mp3" %}
 

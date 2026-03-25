@@ -1,0 +1,17 @@
+﻿commit 1fe54227f372e713feac0120f926edbb4f9d2113
+Author: garturbian <garturbian@gmail.com>
+Date:   Wed Mar 18 11:50:43 2026 +0800
+
+    Add new lessons: Mary Makes Muffins, Sandra Gets New Glasses
+
+A	src/audio/mary-makes-muffins1.mp3
+A	src/audio/mary-makes-muffins2.mp3
+A	src/audio/mary-makes-muffins3.mp3
+A	src/audio/mary-makes-muffins4.mp3
+A	src/audio/mary-makes-muffins5.mp3
+A	src/audio/sandra-get-new-glasses1.mp3
+A	src/audio/sandra-get-new-glasses2.mp3
+A	src/audio/sandra-get-new-glasses3.mp3
+A	src/images/sandra-get-new-glasses.png
+A	src/lessons/Mary Makes Muffins.md
+A	src/lessons/Sandra Gets New Glasses.md
