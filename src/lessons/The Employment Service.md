@@ -33,7 +33,7 @@ Nick is looking for a job as a salesperson. He can talk to customers, he can use
 10. What are Stephanie and Tiffany looking for, and what can they do?  
 
 
-# Answers  
+# Answers
 
 1. The people are in the reception room at the Ace Employment Service.    
 2. Natalie is looking for a job as a secretary.    
@@ -47,7 +47,9 @@ Nick is looking for a job as a salesperson. He can talk to customers, he can use
 10. Stephanie and Tiffany are looking for jobs as actresses, and they can sing, dance, and act.
 
 
+
 ---
+
 
 
 # The Ace Employment Service
