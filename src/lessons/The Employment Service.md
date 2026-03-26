@@ -30,9 +30,9 @@ Nick is looking for a job as a salesperson. He can talk to customers, he can use
 7. What can Sandra do?    
 8. What job is Nick hoping to find?    
 9. What can Nick do?    
-10. What are Stephanie and Tiffany looking for, and what can they do?  
+10. What are Stephanie and Tiffany looking for, and what can they do?
 
-
+<br>
 # Answers
 
 1. The people are in the reception room at the Ace Employment Service.    
@@ -50,7 +50,7 @@ Nick is looking for a job as a salesperson. He can talk to customers, he can use
 
 ---
 
-
+<br>
 
 # The Ace Employment Service
 
