@@ -32,6 +32,7 @@ Nick is looking for a job as a salesperson. He can talk to customers, he can use
 9. What can Nick do?    
 10. What are Stephanie and Tiffany looking for, and what can they do?  
 
+
 # Answers  
 
 1. The people are in the reception room at the Ace Employment Service.    
@@ -43,9 +44,14 @@ Nick is looking for a job as a salesperson. He can talk to customers, he can use
 7. Sandra can use tools, *operate equipment* 操作設備, and *build things* 建造東西.    
 8. Nick is hoping to find a job as a *salesperson* 銷售員.    
 9. Nick can *talk to customers* 與客戶交談, *use a cash register* 使用收銀機, and *take inventory* 盤點庫存.    
-10. Stephanie and Tiffany are looking for jobs as actresses, and they can sing, dance, and act.  
+10. Stephanie and Tiffany are looking for jobs as actresses, and they can sing, dance, and act.
+
 
 ---
+
+
+# The Ace Employment Service
+
 
 Many people are sitting in the reception room at the Ace Employment Service. They're all looking for work, and they're hoping they can find jobs today. 
 
