@@ -47,7 +47,6 @@ Nick is looking for a job as a salesperson. He can talk to customers, he can use
 10. Stephanie and Tiffany are looking for jobs as actresses, and they can sing, dance, and act.
 
 
-
 ---
 
 <br>
