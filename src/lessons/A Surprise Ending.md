@@ -5,6 +5,7 @@ tags: lessons
 ---
 
 ![A Surprise Ending]({{ '/images/a-surprise-ending.png' | url }})
+##### <center>[Link](https://docs.google.com/document/d/1k4en6jcwX3RnuDhORx7vRsKGW7YTQRU4w1itTPtlHCI/edit?tab=t.0#heading=h.kfi51vvl4z7b)</center>
 
 It is time for the play. Bob feels nervous because he plays a doctor in the show. He takes a deep breath and walks onto the stage. The lights are bright, and he can see a big crowd watching him. They are all staring at him. He feels scared but tries to stay calm.
 
