@@ -6,7 +6,7 @@ tags: lessons
 
 ![The Mayor Kills A Cat]({{ '/images/the-mayor-kills-a-cat.png' | url }})
 
-[Link](https://docs.google.com/document/d/1yQ5-cvyv-r8xk93e2i9VHHVybuJvTnOe4ELaf-Lw9FM/)
+[Link](https://docs.google.com/document/d/1yQ5-cvyv-r8xk93e2i9VHHVybuJvTnOe4ELaf-Lw9FM)
 
 The mayor of Riverton, Jacky Chan, is 35 years old. Last  night, he was charged with hitting and running over an animal by the town sheriff. A killed calf was found on Arlington Drive at around 10:00 p.m. Emily Parker, a young witness, saw the car hit the calf but didn't see the driver. She recognized the bull horns on the mayor's car.
 
@@ -31,7 +31,6 @@ The mayor said, "Let's go to court because I didn't do this." He then suggested 
 
 {% audioPlayer "/audio/the-mayor-kills-a-cat_4.mp3" %}
 
-{% audioPlayer "/audio/the-mayor-kills-a-cat_4.mp3" %}
 
 Charged - 被控告
 The mayor was charged with hitting and running over an animal.
