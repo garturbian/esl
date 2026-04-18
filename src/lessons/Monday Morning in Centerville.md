@@ -19,15 +19,16 @@ The city is bustling. Trucks deliver food to supermarkets, mail carriers deliver
 
 Today isn't a typical early Monday morning in Centerville. In fact, it’s a very unusual morning. It’s snowing heavily. All the people are at home. The streets are empty, and the city is quiet. The men and women who usually rush to their jobs aren’t rushing today. The people who usually walk to work aren’t walking, the people who usually drive aren’t driving, and the people who usually take the bus aren’t taking the bus.
 
-{% audioPlayer "/audio/monday-morning-in-centerville_3.mp3" %}
+{% audioPlayer "/audio/monday-morning-in-centerville_2.mp3" %}
+
 
 The children who usually go to school aren’t going to school today. The children who usually walk aren’t walking today. The children who usually take the school bus aren’t taking it today. And the children who usually ride their bicycles aren’t riding them this morning.
 
-{% audioPlayer "/audio/monday-morning-in-centerville_4.mp3" %}
+{% audioPlayer "/audio/monday-morning-in-centerville_3.mp3" %}
 
 The city is very quiet. The trucks that usually deliver food aren’t delivering it today. The mail carriers who usually deliver mail aren’t delivering it this morning. And the police officers who usually direct traffic aren’t doing it today. Yes, it’s a very unusual Monday morning in Centerville.
 
-{% audioPlayer "/audio/monday-morning-in-centerville_5.mp3" %}5
+{% audioPlayer "/audio/monday-morning-in-centerville_4.mp3" %}5
 
 rush - 匆忙
 
