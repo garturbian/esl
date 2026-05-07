@@ -1,0 +1,20 @@
+✦ I have created a "hidden" page for you at src/pages/secret-lesson.md.
+
+  How it works:
+   1. Exclusion from Lists: By omitting the tags: lessons and adding eleventyExcludeFromCollections: true, this page
+      will not appear in your main lesson list or any other automated lists.
+   2. No Tooltips: Because the file is located in src/pages/ (instead of src/lessons/), the vocabulary tooltip feature
+      in your .eleventy.js configuration will ignore it.
+   3. Direct Access: You can access the page directly at the URL: /pages/secret-lesson/ (or /esl/pages/secret-lesson/
+      depending on your server setup).
+
+  To add more hidden pages:
+  Simply create a new .md file in the src/pages/ folder and use this front matter:
+
+   1 ---
+   2 layout: layouts/base.njk
+   3 title: "Your Private Title"
+   4 eleventyExcludeFromCollections: true
+   5 ---
+
+  You can now share the specific URLs of these pages with your students!
