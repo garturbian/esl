@@ -1,7 +1,7 @@
 ---
-layout: layouts/base.njk
-title: "Hidden-1"
-eleventyExcludeFromCollections: true
+layout: layouts/chinese-lesson.njk
+title: "Hidden 1"
+tags: chinese
 ---
 
-This is a test file.
+This is a hidden page.

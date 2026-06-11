@@ -12,3 +12,14 @@ I created these lessons for my private students who speak Mandarin, and now I am
 (Site updated: {% year %})
 
 Happy learning!
+
+<div class="lessons-grid">
+    <a href="{{ '/lessons/' | url }}" class="lesson-card">
+        <h3>📚 English Lessons</h3>
+        <p>Focus on high-frequency words, listening practice, and shadow reading.</p>
+    </a>
+    <a href="{{ '/chinese/' | url }}" class="lesson-card">
+        <h3>🏮 Chinese Lessons</h3>
+        <p>Bilingual materials and audio to help you master Mandarin.</p>
+    </a>
+</div>

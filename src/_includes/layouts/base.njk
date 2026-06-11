@@ -17,6 +17,7 @@
                 <ul>
                     <li><a href="{{ '/' | url }}"><span class="nav-icon">🏠</span><span>Home</span></a></li>
                     <li><a href="{{ '/lessons/' | url }}"><span class="nav-icon">📚</span><span>Lessons</span></a></li>
+                    <li><a href="{{ '/chinese/' | url }}"><span class="nav-icon">🏮</span><span>Chinese</span></a></li>
                 </ul>
             </nav>
         </header>
@@ -27,14 +28,6 @@
             {% endif %}
             
             <div class="content">
-                {% if audio %}
-                <div class="audio-container">
-                    <audio controls>
-                        <source src="{{ audio | url }}" type="audio/mpeg">
-                        Your browser does not support the audio element.
-                    </audio>
-                </div>
-                {% endif %}
                 {{ content | safe }}
             </div>
         </main>

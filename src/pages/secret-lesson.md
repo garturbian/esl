@@ -1,45 +1,9 @@
 ---
-layout: layouts/base.njk
+layout: layouts/chinese-lesson.njk
 title: "Secret Lesson"
-eleventyExcludeFromCollections: true
+tags: chinese
+audio: /audio/HSK-4-vocabulary.mp3
 ---
-<div class="floating-audio">
-{% audioPlayer "/audio/HSK-4-vocabulary.mp3" %}
-</div>
-
-<style>
-.floating-audio {
-    position: fixed;
-    bottom: 2rem;
-    left: 50%;
-    transform: translateX(-50%);
-    width: calc(100% - 4rem);
-    max-width: var(--container-width);
-    z-index: 1000;
-    background-color: var(--surface);
-    padding: 1rem;
-    border-radius: 12px;
-    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-    border: 1px solid var(--border);
-}
-
-.floating-audio .audio-container {
-    margin: 0;
-    padding: 0;
-}
-
-@media (max-width: 767px) {
-    .floating-audio {
-        bottom: 5rem; /* Positioned above the mobile bottom nav */
-        width: calc(100% - 2rem);
-    }
-}
-
-.lesson-text {
-    white-space: pre-wrap;
-    margin-top: 2rem;
-}
-</style>
 
 <div class="lesson-text">
 
@@ -798,7 +762,7 @@ the ideal weight,
 tā yǐ jīng shòu xià lái le。
 he has already become thinner.  
 
-可是如果因為過度減肥
+可是如果因为過度減肥
 kě shì rú guǒ yīn wèi guò dù jiǎn féi。
 But if because of excessive dieting,  
 
@@ -887,7 +851,7 @@ yuè lái yuè shēn。
 Deeper and deeper.  
 
 如果你繼續這樣瘦下去
-rú guǒ nǐ jì xù zhè yàng shòu xià qù。
+rú guǒ nǐ zhè yàng shòu xià qù。
 If you continue becoming thinner like this,  
 
 越來越瘦
@@ -974,5 +938,3 @@ usually use it in normal situations.
 nǐ bù xū yào xué huì suǒ yǒu de yòng fǎ。
 You do not need to learn every single usage.  
 </div>
-
-[Back to Home]({{ '/' | url }})

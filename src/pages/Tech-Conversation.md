@@ -1,51 +1,14 @@
 ---
-layout: layouts/base.njk
+layout: layouts/chinese-lesson.njk
 title: "Tech-Conversation"
-eleventyExcludeFromCollections: true
+tags: chinese
+audio: /audio/Tech-Conversation.mp3
 ---
-
-<div class="floating-audio">
-{% audioPlayer "/audio/Tech-Conversation.mp3" %}
-</div>
-
-<style>
-.floating-audio {
-    position: fixed;
-    bottom: 2rem;
-    left: 50%;
-    transform: translateX(-50%);
-    width: calc(100% - 4rem);
-    max-width: var(--container-width);
-    z-index: 1000;
-    background-color: var(--surface);
-    padding: 1rem;
-    border-radius: 12px;
-    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-    border: 1px solid var(--border);
-}
-
-.floating-audio .audio-container {
-    margin: 0;
-    padding: 0;
-}
-
-@media (max-width: 767px) {
-    .floating-audio {
-        bottom: 5rem; /* Positioned above the mobile bottom nav */
-        width: calc(100% - 2rem);
-    }
-}
-
-.lesson-text {
-    white-space: pre-wrap;
-    margin-top: 2rem;
-}
-</style>
 
 <div class="lesson-text">
 0:00 大家好，歡迎來到我們的頻道，我是李揚。
 dàjiā hǎo, huānyíng láidào wǒmen de píndào, wǒ shì Lǐ Yáng.
-Hello everyone, welcome to our channel, I am Li Yang.
+Hello everyone, welcome to our channel, I am Li Yang.  
 
 0:04 我是安娜，大家好。
 wǒ shì Ānnà, dàjiā hǎo.
@@ -79,7 +42,7 @@ Very bad and uneasy, like I lost something but don’t know what.
 duì bù duì? nǐ qù shàngbān, méiyǒu shǒujī, zhěng gèrén dōu bù duìjìn.
 Right? You go to work without a phone and feel completely off.
 
-0:28 對，我一直想摸口袋，但口袋是空的。
+0:28 對，我一直想摸口袋，但口袋是空的.
 duì, wǒ yīzhí xiǎng mō kǒudài, dàn kǒudài shì kōng de.
 Yes, I kept reaching into my pocket, but it was empty.
 
@@ -279,7 +242,7 @@ In the past, buy maps?
 duì, zhǐ dìtú, hěn dà, hěn hòu, hěn nán zhé.
 Yes, paper maps, very big, very thick, hard to fold.
 
-3:37 對，每次折完都亂成一團，根本折不回去。
+3:37 對，每次折完都亂成一團，根本折不回去.
 duì, měi cì zhé wán dōu luàn chéng yī tuán, gēnběn zhé bù huíqù.
 Yes, every time you fold it, it becomes messy and you can’t fold it back.
 
@@ -336,7 +299,7 @@ wàisòng.
 Delivery food.
 
 4:28 外送就是，你用手機點餐，餐廳做好，外送小哥騎車送到你家門口。
-wàisòng jiùshì, nǐ yòng shǒujī diǎn cān, cāntīng zuò hǎo, wàisòng xiǎogē qí chē sòng dào nǐ jiā ménkǒu.
+wàisòng jiùshì, nǐ yòng shǒujī diǎn cān, cāntīng zuò hǎo, wàisòng xiǎogē qí chē sòng dào nǐ jiā mènkǒu.
 Delivery means you order on your phone, the restaurant prepares it, and a rider brings it to your door.
 
 4:34 哦，就是food delivery，中國這個很厲害吧?
@@ -503,7 +466,7 @@ I say “turn off the light” and it turns off.
 bù xūyào qǐlái zhǎo kāiguān?
 No need to get up and find the switch?
 
-6:44 不需要，我還可以說，燈變暗一點，燈就變暗，很適合看電影。
+6:44 不需要，我還可以說，燈變暗一點，燈就變暗，很適合看電影.
 bù xūyào, wǒ hái kěyǐ shuō, dēng biàn àn yī diǎn, dēng jiù biàn àn, hěn shìhé kàn diànyǐng.
 No, I can also say make it dimmer, and it becomes dimmer, perfect for watching movies.
 
@@ -527,7 +490,7 @@ I want to buy one, but I worry the light will control me.
 hēhē, bù huì, wǒmen kòngzhì kējì, kējì bù kòngzhì wǒmen.
 Haha, no, we control technology, not the other way around.
 
-7:09 對，我控制小陳，小陳不控制我。
+7:09 對，我控制小陳，小陳不控制我.
 duì, wǒ kòngzhì Xiǎo Chén, Xiǎo Chén bù kòngzhì wǒ.
 Yes, I control Xiao Chen, Xiao Chen does not control me.
 
@@ -619,7 +582,7 @@ Yes, an app reminds you to drink water: drink a glass now.
 a, wǒ jīngcháng wàngjì hē shuǐ, zhège APP hěn yǒuyòng.
 Ah, I often forget to drink water. This app is useful.
 
-8:16 對，還有睡眠APP幫你睡覺。
+8:16 對，還有睡眠APP幫 you 睡覺。
 duì, hái yǒu shuìmián APP bāng nǐ shuìjiào.
 Yes, there are also sleep apps to help you sleep.
 
@@ -647,7 +610,7 @@ I listen to rain sounds every night and fall asleep quickly.
 wǒ yào shìshi, wǒ yǒu shíhou shuì bù hǎo, nǎozi lǐ xiǎng tài duō.
 I will try it. Sometimes I cannot sleep because I think too much.
 
-8:39 對，但是要注意，睡前不要一直盯著手機的亮屏。
+8:39 對，但是要注意，睡前不要一直盯著手機的亮屏.
 duì, dànshì yào zhùyì, shuì qián bù yào yīzhí dīngzhe shǒujī de liàng píng.
 Yes, but be careful: don’t stare at a bright phone screen before sleep.
 
@@ -659,7 +622,7 @@ That is a bad habit, right?
 duì, lán guāng yǐngxiǎng shuìmián.
 Yes, blue light affects sleep.
 
-8:49 用科技幫你睡覺，不要用科技阻止你睡覺。
+8:49 用科技幫你睡覺，不要用科技阻止你睡覺.
 yòng kējì bāng nǐ shuìjiào, bù yào yòng kējì zǔzhǐ nǐ shuìjiào.
 Use technology to help you sleep, not stop you from sleeping.
 
@@ -711,7 +674,7 @@ In the past, you needed heavy books.
 duì, yào qù shàngkè, yào yǒu gùdìng de shíjiān, yào zài gùdìng de dìdiǎn.
 Yes, you had to attend classes at fixed times and places.
 
-9:34 但是現在，你可以在公共汽車上聽播客。
+9:34 但是現在，你可以在公共汽車上聽播客.
 dànshì xiànzài, nǐ kěyǐ zài gōnggòng qìchē shàng tīng bōkè.
 But now you can listen to podcasts on the bus.
 
@@ -719,7 +682,7 @@ But now you can listen to podcasts on the bus.
 zài dìtiě shàng kàn shìpín.
 Watch videos on the subway.
 
-9:40 在公園裡用APP練習發音。
+9:40 在公園裡用APP練習發音.
 zài gōngyuán lǐ yòng APP liànxí fāyīn.
 Practice pronunciation in the park with apps.
 
@@ -739,7 +702,7 @@ Yes, and if I see an unknown character, I search on my phone immediately.
 zìdiǎn zài kǒudài lǐ.
 The dictionary is in your pocket.
 
-9:59 以前的人要查大字典，翻很久才能找到。
+9:59 以前的人要查大字典，翻很久才能找到.
 yǐqián de rén yào chá dà zìdiǎn, fān hěn jiǔ cái néng zhǎo dào.
 In the past people used big dictionaries and searched for a long time.
 
@@ -807,7 +770,7 @@ Haha yes, not counting, just walking, looking at the sky and trees.
 tīng qǐlái hěn měi.
 That sounds beautiful.
 
-10:54 科技讓生活更方便，但真實的世界也很重要。
+10:54 科技讓生活更方便，但真實的世界也很重要.
 kējì ràng shēnghuó gèng fāngbiàn, dàn zhēnshí de shìjiè yě hěn zhòngyào.
 Technology makes life easier, but the real world is also important.
 
@@ -839,7 +802,7 @@ I will summarize: communication, navigation, online shopping, smart home, health
 fēicháng hǎo, kējì ràng shēnghuó gèng fāngbiàn, gèng gāoxiào, gèng yǒuqù.
 Very good. Technology makes life more convenient, efficient, and interesting.
 
-11:38 對，但是我們要控制它，不能讓它控制我們。
+11:38 對，但是我們要控制它，不能讓它控制我們.
 duì, dànshì wǒmen yào kòngzhì tā, bù néng ràng tā kòngzhì wǒmen.
 Yes, but we must control it, not let it control us.
 
@@ -906,6 +869,4 @@ Exactly, see you next time.
 12:48 下次見，大家。
 xià cì jiàn, dàjiā.
 See you next time, everyone.
-
-
-
+</div>

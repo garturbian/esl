@@ -1,0 +1,46 @@
+---
+layout: layouts/base.njk
+---
+{% if audio %}
+<div class="floating-audio">
+    {% audioPlayer audio %}
+</div>
+{% endif %}
+
+<div class="lesson-text">
+    {{ content | safe }}
+</div>
+
+<style>
+.floating-audio {
+    position: fixed;
+    bottom: 2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    width: calc(100% - 4rem);
+    max-width: var(--container-width);
+    z-index: 1000;
+    background-color: var(--surface);
+    padding: 1rem;
+    border-radius: 12px;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    border: 1px solid var(--border);
+}
+
+.floating-audio .audio-container {
+    margin: 0;
+    padding: 0;
+}
+
+@media (max-width: 767px) {
+    .floating-audio {
+        bottom: 5rem; /* Positioned above the mobile bottom nav */
+        width: calc(100% - 2rem);
+    }
+}
+
+.lesson-text {
+    white-space: pre-wrap;
+    margin-top: 2rem;
+}
+</style>

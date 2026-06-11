@@ -1,45 +1,9 @@
 ---
-layout: layouts/base.njk
+layout: layouts/chinese-lesson.njk
 title: "Fastest Chinese Learners"
-eleventyExcludeFromCollections: true
+tags: chinese
+audio: /audio/fastest-chinese-learners.mp3
 ---
-<div class="floating-audio">
-{% audioPlayer "/audio/fastest-chinese-learners.mp3" %}
-</div>
-<style>
-.floating-audio {
-    position: fixed;
-    bottom: 2rem;
-    left: 50%;
-    transform: translateX(-50%);
-    width: calc(100% - 4rem);
-    max-width: 400px;
-    z-index: 1000;
-    background-color: var(--surface);
-    padding: 0.5rem;
-    border-radius: 12px;
-    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-    border: 1px solid var(--border);
-}
-
-.floating-audio .audio-container {
-    margin: 0;
-    padding: 0;
-}
-
-@media (max-width: 767px) {
-    .floating-audio {
-        bottom: 5rem; /* Positioned above the mobile bottom nav */
-        width: calc(100% - 2rem);
-    }
-}
-
-.lesson-text {
-    white-space: pre-wrap;
-    margin-top: 2rem;
-}
-</style>
-<div class="lesson-text">
 
 嗨，好久不見朋友們，今年是我教漢語的第五年了，  
 hāi , hǎo jiǔ bú jiàn péng yǒu men , jīn nián shì wǒ jiāo hàn yǔ de dì wǔ nián le ,  
@@ -109,7 +73,6 @@ So they must listen to enough Chinese to make this step easier.
 zài chū qī néng gòu bǎ sì gè shēng diào fā qīng chǔ de xué shēng ,  
 Students who can pronounce the four tones clearly in the beginning  
 
-在之後的練習中逐漸鞏固，  
 zài zhī hòu de liàn xí zhōng zhú jiàn gǒng gù ,  
 gradually strengthen them during later practice.  
 
@@ -125,7 +88,6 @@ On the other hand,
 qián qī méi yǒu bǎ sì gè shēng diào fā qīng chǔ de xué shēng ,  
 students who did not pronounce the four tones clearly in the beginning  
 
-在練習的過程中不斷鞏固，  
 zài liàn xí de guò chéng zhōng bú duàn gǒng gù ,  
 keep reinforcing them during practice.  
 
@@ -165,7 +127,7 @@ My listening improved from an A2 level.
 wǒ céng jīng měi tiān chú le gōng zuò shí jiān dōu fàng zhe yīng yǔ yǐng piàn ,  
 I once played English videos every day except during work.  
 
-剛開始我只能理解10%，  
+剛開始 I 只能理解10%，  
 gāng kāi shǐ wǒ zhǐ néng lǐ jiě shí fēn zhī shí ,  
 At first I could only understand 10%.  
 
@@ -256,7 +218,6 @@ I completely agree with this point.
 wǒ jì de yǒu yí duàn shí jiān wǒ bù xǐ huān gēn rén liáo tiān ,  
 I remember there was a period when I did not like talking with people.  
 
-我只能說我喜歡聊天。  
 wǒ zhǐ néng shuō wǒ xǐ huān liáo tiān 。  
 I could only say that I liked chatting.  
 
@@ -264,7 +225,6 @@ I could only say that I liked chatting.
 wǒ jì de yǒu yí duàn shí jiān wǒ bù xǐ huān gēn rén liáo tiān ,  
 I remember there was a period when I did not like talking with people.  
 
-我只能說我喜歡聊天。  
 wǒ zhǐ néng shuō wǒ xǐ huān liáo tiān 。  
 I could only say that I liked chatting.  
 
@@ -364,7 +324,6 @@ This is the same as tones.
 yì kāi shǐ de jī chǔ jué dìng le zhī hòu bú duàn chóng fù de shì shén me jié gòu 。  
 The foundation at the beginning decides what structures you repeat later.  
 
-我之所以說是一點點，  
 wǒ zhī suǒ yǐ shuō shì yì diǎn diǎn ,  
 The reason I say “a little”  
 
@@ -619,7 +578,3 @@ See you in another video.
 再見！  
 zài jiàn !  
 Goodbye!  
-
-</div>
-
-[Back to Home]({{ '/' | url }})

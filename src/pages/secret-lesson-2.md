@@ -1,46 +1,9 @@
 ---
-layout: layouts/base.njk
+layout: layouts/chinese-lesson.njk
 title: "Secret Lesson 2"
-eleventyExcludeFromCollections: true
+tags: chinese
+audio: /audio/secret-lesson-2.mp3
 ---
-
-<div class="floating-audio">
-{% audioPlayer "/audio/secret-lesson-2.mp3" %}
-</div>
-
-<style>
-.floating-audio {
-    position: fixed;
-    bottom: 2rem;
-    left: 50%;
-    transform: translateX(-50%);
-    width: calc(100% - 4rem);
-    max-width: var(--container-width);
-    z-index: 1000;
-    background-color: var(--surface);
-    padding: 1rem;
-    border-radius: 12px;
-    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-    border: 1px solid var(--border);
-}
-
-.floating-audio .audio-container {
-    margin: 0;
-    padding: 0;
-}
-
-@media (max-width: 767px) {
-    .floating-audio {
-        bottom: 5rem; /* Positioned above the mobile bottom nav */
-        width: calc(100% - 2rem);
-    }
-}
-
-.lesson-text {
-    white-space: pre-wrap;
-    margin-top: 2rem;
-}
-</style>
 
 <div class="lesson-text">
 
@@ -164,6 +127,7 @@ he was only 18.
 所以這裡有一個對比。
 Suǒyǐ zhèlǐ yǒu yí ge duìbǐ.
 So there is a comparison here.  
+修訂
 是和什麼對比呢？
 Shì hé shénme duìbǐ ne?
 Compared with what?  
@@ -484,7 +448,7 @@ but did it happen?
 Méiyǒu.
 No.  
 我等啊等啊等啊等啊，
-Wǒ děng a děng a děng a děng a,
+Wǒ děng a děng a dènɡ a dènɡ a,
 I waited and waited and waited,  
 等了很久很久，
 Děng le hěn jiǔ hěn jiǔ,
@@ -508,7 +472,7 @@ I waited for you for two hours,
 Wǒ yǐwéi nǐ huì zài zhège shíhou lái,
 I thought you would come at this time,  
 可是我等了你兩個小時，
-Kěshì wǒ děng le nǐ liǎng ge xiǎoshí,
+Kěshì wǒ dènɡ le nǐ liǎnɡ ɡe xiǎoshí,
 but I waited for you for two hours,  
 你才來。
 Nǐ cái lái.
@@ -548,19 +512,19 @@ So you will discover
 Zhèlǐ yǒu yí ge shíjiān chā.
 there is a time difference here.  
 是等了很長時間。
-Shì děng le hěn cháng shíjiān.
+Shì dènɡ le hěn chánɡ shíjiān.
 It means waiting for a long time.  
 你看，
 Nǐ kàn,
 Look,  
 這個人等得很心煩，
-Zhège rén děng de hěn xīnfán,
+Zhège rén dènɡ de hěn xīnfán,
 this person waited until becoming annoyed,  
 等不及了，
-Děng bù jí le,
+Dènɡ bù jí le,
 could not wait anymore,  
 他不耐煩了。
-Tā bù nàifán le.
+Tā bú nàifán le.
 he became impatient.  
 才來、
 Cái lái,
@@ -949,4 +913,4 @@ If you have the next section,
 可以直接貼上來。
 Kěyǐ zhíjiē tiē shànglái.
 you can paste it directly.  
-
+</div>
