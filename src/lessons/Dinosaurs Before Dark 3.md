@@ -26,7 +26,7 @@ They Look Outside. Jack looks out the window. He sees many things outside: big g
 
 {% audioPlayer "/audio/dbd-chapter-3_1.mp3" %}
 
-They See Dinosaurs A giant flying animal (a Pteranodon) flies in the sky. It lands near their tree house. They are very surprised! "Where are we?" Jack asks.
+They See Dinosaurs. They see a giant flying animal. (a Pteranodon). It flies in the sky. It lands near their tree house. They are very surprised! "Where are we?" Jack asks.
 
 1. What do Jack and Annie see in the sky?   
 2. Is the animal small or giant?  
@@ -44,7 +44,7 @@ They See Dinosaurs A giant flying animal (a Pteranodon) flies in the sky. It lan
 
 {% audioPlayer "/audio/dbd-chapter-3_2.mp3" %}
 
-They Talk About It Annie and Jack ask what happened. They remember they were reading about dinosaurs. The wind got loud, and the tree house started to spin! They landed in this strange place. Jack thinks: "This cannot be real." But Annie says: "No, it is real!"
+They Talk About It. Annie and Jack ask what happened. They remember they were reading about dinosaurs. The wind got loud, and the tree house started to spin! They landed in this strange place. Jack thinks: "This cannot be real." But Annie says: "No, it is real!"
 
 1. Who talks about what happened?  
 2. What do Annie and Jack remember?  
@@ -66,7 +66,7 @@ They Talk About It Annie and Jack ask what happened. They remember they were rea
 
 {% audioPlayer "/audio/dbd-chapter-3_3.mp3" %}
 
-The Big Secret (The Book) They look at the book again. Jack reads words under the picture. It says this creature lived very long ago—millions of years ago! This means they should not be here!
+The Big Secret. (The Book). They look at the book again. Jack reads words under the picture. It says this creature lived very long ago—millions of years ago! This means they should not be here!
 
 1. What do Jack and Annie look at again?  
 2. Who reads the words under the picture?  
@@ -87,7 +87,7 @@ The Big Secret (The Book) They look at the book again. Jack reads words under th
 
 {% audioPlayer "/audio/dbd-chapter-3_4.mp3" %}
 
-They Decide to Go Down Annie sees the flying dinosaur, and she is excited. She thinks it is "nice." Jack tries to stop her because he is scared. But Annie goes down the rope ladder. She walks toward the big animal.
+They Decide to Go Down. Annie sees the flying dinosaur, and she is excited. She thinks it is "nice." Jack tries to stop her because he is scared. But Annie goes down the rope ladder. She walks toward the big animal.
 
 1. Who sees the flying dinosaur?  
 2. How does Annie feel?  
