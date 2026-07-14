@@ -7,6 +7,7 @@ title: "Box-Car Kids 2"
 ![bck-ch2]({{ '/images/bck-ch2.png' | url }})
 
 # Chapter 2: The Second Night
+[Link](https://docs.google.com/document/d/1JckAZo9ZHP0r1yQ3xkbCsq_iExA03lC5ul2pi4ftRiU/edit?tab=t.0)
 
 {% audioPlayer "/audio/bck-ch2_1.mp3" %}
 
