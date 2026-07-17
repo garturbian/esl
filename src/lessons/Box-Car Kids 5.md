@@ -3,7 +3,7 @@ layout: layouts/base.njk
 tags: lessons
 title: "Box-Car Kids 5"
 ---
-
+[Link](https://docs.google.com/document/d/1Aenvz-hzN1BAkJkTcMVsQx4l7WwJffOR7GZIhrsiXG8/edit?tab=t.0)
 ![bck-ch5]({{ '/images/bck-ch5.png' | url }})
 
 {% audioPlayer "/audio/bck-ch5_0.mp3" %}
