@@ -5,6 +5,7 @@ title: "Box-Car Kids 6"
 ---
 
 ![bck-ch6]({{ '/images/bck-ch6.png' | url }})
+[Link](https://docs.google.com/document/d/1kEpIK9eWLv1omPOON095qwyu0Jgkvu9DM34QSwTx7CM/edit?tab=t.0)
 
 {% audioPlayer "/audio/bck-ch6_0.mp3" %}
 
