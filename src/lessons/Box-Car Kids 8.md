@@ -38,4 +38,3 @@ They had a great feast that night, including the rest of the stew, bread, butter
 {% audioPlayer "/audio/bck-ch8_7.mp3" %}
 
 In the afternoon, they went for a long walk. They found two amazing things. First, they found a hollow tree full of walnuts. Second, they found a runaway hen! Watch the dog barked, and the hen ran away, leaving behind a nest with five eggs. "Eggs!" Benny cheered. "It’s a gift from heaven," Violet said. They scrambled the eggs in the big kettle with butter, milk, and salt. It was a delicious meal. "We will have to eat just bread and milk tomorrow," Jess said. But as you will see, they ended up having much more than that.
-Not AssignedNot Assigned
