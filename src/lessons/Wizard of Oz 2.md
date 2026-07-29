@@ -6,7 +6,7 @@ title: "Wizard of Oz 2"
 
 ![woz-ch2]({{ '/images/woz-ch2.png' | url }})
 
-[Link]()
+[Link](https://docs.google.com/document/d/1hO5VRBy5fmbLRlPR9eIHsabwlRWm2K3e8UGvJCSRXZ4)
 
 {% audioPlayer "/audio/woz-ch2_0.mp3" %}
 
@@ -102,7 +102,7 @@ She felt lonely among all these strange people. The kind Munchkins felt sad when
 
 {% audioPlayer "/audio/woz-ch2_23.mp3" %}
 
-Big white letters were written on it: "LET DOROTHY GO TO THE CITY OF EMERALDS" The little old woman took the board from her nose. She read the words. Then she asked, "Is your name Dorothy, my dear?" "Yes," answered the child. Dorothy looked up and dried her tears. "Then you must go to the City of Emeralds," said the Witch. "Perhaps Oz can help you." "Where is this city? "asked Dorothy.
+Big white letters were written on it: "Let Dorothy go to the City of Emeralds" The little old woman took the board from her nose. She read the words. Then she asked, "Is your name Dorothy, my dear?" "Yes," answered the child. Dorothy looked up and dried her tears. "Then you must go to the City of Emeralds," said the Witch. "Perhaps Oz can help you." "Where is this city? "asked Dorothy.
 
 {% audioPlayer "/audio/woz-ch2_24.mp3" %}
 
