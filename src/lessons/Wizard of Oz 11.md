@@ -150,7 +150,7 @@ On the next morning, the soldier with the green beard came to the Tin Man and sa
 
 {% audioPlayer "/audio/woz-ch11_35.mp3" %}
 
-"A head has no heart of its own, so it cannot care about me. But if it is the pretty Lady, I will beg hard for a heart. People say all ladies are kind." When the Woodman walked into the big Throne Room, he saw neither the Head nor the Lady. Oz had taken the shape of a very scary Beast. It was almost as big as an elephant.
+"A head has no heart of its own, so it cannot care about me. But if it is the pretty Lady, I will beg hard for a heart. People say all ladies are kind." When the Tin Man walked into the big Throne Room, he saw neither the Head nor the Lady. Oz had taken the shape of a very scary Beast. It was almost as big as an elephant.
 
 {% audioPlayer "/audio/woz-ch11_36.mp3" %}
 
@@ -158,11 +158,11 @@ The green throne looked too small to hold its weight. The Beast had a head like 
 
 {% audioPlayer "/audio/woz-ch11_37.mp3" %}
 
-Since he was made of tin, the Woodman felt no fear, but he was very disappointed. "I am Oz, the Great and Terrible," shouted the Beast in a voice like a loud roar. "Who are you, and why do you want to see me?" "I am a Woodman made of tin. So I have no heart and cannot love. I beg you to give me a heart so I can be like other men."
+Since he was made of tin, the Tin Man felt no fear, but he was very disappointed. "I am Oz, the Great and Terrible," shouted the Beast in a voice like a loud roar. "Who are you, and why do you want to see me?" "I am a Tin Man made of tin. So I have no heart and cannot love. I beg you to give me a heart so I can be like other men."
 
 {% audioPlayer "/audio/woz-ch11_38.mp3" %}
 
-"Why should I do this?" asked the Beast. "Because I ask it, and only you can give it to me," answered the Woodman. Oz gave a low growl and said in a rough voice: "If you truly want a heart, you must earn it." "How?" asked the Woodman. "Help Dorothy kill the Wicked Witch of the West," replied the Beast. "When the Witch is dead, come to me."
+"Why should I do this?" asked the Beast. "Because I ask it, and only you can give it to me," answered the Tin Man. Oz gave a low growl and said in a rough voice: "If you truly want a heart, you must earn it." "How?" asked the Tin Man. "Help Dorothy kill the Wicked Witch of the West," replied the Beast. "When the Witch is dead, come to me."
 
 {% audioPlayer "/audio/woz-ch11_39.mp3" %}
 
@@ -202,7 +202,7 @@ He felt glad to see his friends waiting for him. He told them about his bad talk
 
 {% audioPlayer "/audio/woz-ch11_48.mp3" %}
 
-"But if you go, I will certainly go with you." So they decided to start their trip the next morning. The Woodman sharpened his axe on a green stone and oiled all his metal joints. The Scarecrow stuffed himself with fresh straw. Dorothy put new paint on his eyes so he could see better. The green girl was very kind to them.
+"But if you go, I will certainly go with you." So they decided to start their trip the next morning. The Tin Man sharpened his axe on a green stone and oiled all his metal joints. The Scarecrow stuffed himself with fresh straw. Dorothy put new paint on his eyes so he could see better. The green girl was very kind to them.
 
 {% audioPlayer "/audio/woz-ch11_49.mp3" %}
 
